@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RUSSIA VPN · 节点池 Demo</title>
+<style>
+  :root{
+    --bg:#0b0f14; --panel:#131a22; --panel2:#1a232d; --line:#243040;
+    --fg:#e6edf3; --dim:#8b98a5; --acc:#4ea1ff; --ok:#2ecc71; --bad:#ff5c5c; --warn:#ffb648;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);
+       font:14px/1.5 -apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif}
+  a{color:var(--acc);text-decoration:none}
+  header{padding:20px 24px;border-bottom:1px solid var(--line);
+         display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+  h1{margin:0;font-size:19px;letter-spacing:.3px}
+  .sub{color:var(--dim);font-size:12px}
+  main{padding:20px 24px;max-width:1400px;margin:0 auto}
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-bottom:20px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px}
+  .card .k{color:var(--dim);font-size:12px;margin-bottom:6px}
+  .card .v{font-size:24px;font-weight:600;letter-spacing:.5px}
+  .card .v small{font-size:13px;color:var(--dim);font-weight:400}
+  .bar{height:6px;border-radius:4px;background:var(--panel2);overflow:hidden;margin-top:8px}
+  .bar > i{display:block;height:100%;background:linear-gradient(90deg,#2ecc71,#4ea1ff)}
+  .grid2{display:grid;grid-template-columns:340px 1fr;gap:16px}
+  @media(max-width:900px){.grid2{grid-template-columns:1fr}}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  .panel h2{margin:0;padding:12px 14px;font-size:13px;color:var(--dim);
+            text-transform:uppercase;letter-spacing:.6px;border-bottom:1px solid var(--line)}
+  .clist{max-height:420px;overflow:auto}
+  .crow{display:flex;justify-content:space-between;padding:8px 14px;
+        border-bottom:1px solid rgba(36,48,64,.6);cursor:pointer;font-size:13px}
+  .crow:hover{background:var(--panel2)}
+  .crow .c{color:var(--dim);font-variant-numeric:tabular-nums}
+  .crow.on{background:rgba(78,161,255,.14)}
+  .toolbar{display:flex;gap:8px;padding:12px 14px;border-bottom:1px solid var(--line);flex-wrap:wrap;align-items:center}
+  input,select,button{background:var(--panel2);color:var(--fg);border:1px solid var(--line);
+                      border-radius:7px;padding:7px 10px;font-size:13px;font-family:inherit}
+  input{min-width:200px}
+  button{cursor:pointer}
+  button:hover{border-color:var(--acc)}
+  button.primary{background:#1c3d63;border-color:#2b5c92}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{padding:8px 10px;text-align:left;border-bottom:1px solid rgba(36,48,64,.6);white-space:nowrap}
+  th{color:var(--dim);font-weight:500;font-size:12px;text-transform:uppercase;letter-spacing:.4px;
+     position:sticky;top:0;background:var(--panel)}
+  tbody tr:hover{background:var(--panel2);cursor:pointer}
+  .tag{display:inline-block;padding:1px 7px;border-radius:20px;font-size:11px;border:1px solid transparent}
+  .tag.ok{color:var(--ok);background:rgba(46,204,113,.12);border-color:rgba(46,204,113,.35)}
+  .tag.bad{color:var(--bad);background:rgba(255,92,92,.12);border-color:rgba(255,92,92,.35)}
+  .tag.na{color:var(--dim);background:rgba(139,152,165,.1);border-color:rgba(139,152,165,.25)}
+  .tag.warn{color:var(--warn);background:rgba(255,182,72,.12);border-color:rgba(255,182,72,.35)}
+  .mono{font-family:ui-monospace,Consolas,monospace;font-size:12px}
+  .pager{display:flex;gap:8px;align-items:center;padding:10px 14px;color:var(--dim);font-size:12px}
+  #drawer{position:fixed;top:0;right:0;width:min(620px,92vw);height:100%;background:var(--panel);
+          border-left:1px solid var(--line);transform:translateX(101%);transition:transform .22s;
+          display:flex;flex-direction:column;z-index:50}
+  #drawer.open{transform:none}
+  #drawer .dh{display:flex;justify-content:space-between;align-items:center;padding:14px 16px;
+              border-bottom:1px solid var(--line)}
+  #drawer .db{padding:14px 16px;overflow:auto;flex:1}
+  pre{background:#0d1319;border:1px solid var(--line);border-radius:8px;padding:12px;
+      overflow:auto;font-size:12px;line-height:1.45;max-height:340px;margin:10px 0 0}
+  .kv{display:grid;grid-template-columns:110px 1fr;gap:6px 10px;font-size:13px}
+  .kv .k{color:var(--dim)}
+  .foot{padding:14px 24px;color:var(--dim);font-size:12px;border-top:1px solid var(--line);margin-top:24px}
+  .spin{display:inline-block;width:11px;height:11px;border:2px solid var(--dim);
+        border-top-color:var(--acc);border-radius:50%;animation:sp .7s linear infinite}
+  @keyframes sp{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+<header>
+  <h1>RUSSIA VPN <span class="sub">v4.2.8.6 · 节点池 Demo</span></h1>
+  <span class="sub" id="upstream"></span>
+</header>
+
+<main>
+  <div class="cards" id="cards"></div>
+
+  <div class="grid2">
+    <div class="panel">
+      <h2>国家/地区分布（点击筛选）</h2>
+      <div class="clist" id="clist"></div>
+    </div>
+
+    <div class="panel" style="min-width:0">
+      <h2>节点列表</h2>
+      <div class="toolbar">
+        <input id="q" placeholder="搜索名称 / IP / 国家">
+        <select id="alive">
+          <option value="">全部状态</option>
+          <option value="ALIVE">仅存活</option>
+          <option value="DEAD">仅失效</option>
+          <option value="">未测活</option>
+        </select>
+        <select id="size">
+          <option>50</option><option>100</option><option>200</option>
+        </select>
+        <button class="primary" id="probePage">测活本页</button>
+        <button id="reload">刷新</button>
+        <span class="sub" id="hint"></span>
+      </div>
+      <div style="overflow:auto;max-height:560px">
+        <table>
+          <thead><tr>
+            <th>ID</th><th>状态</th><th>国家</th><th>名称</th>
+            <th>远端</th><th>协议</th><th>握手</th><th></th>
+          </tr></thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+      <div class="pager">
+        <button id="prev">上一页</button><span id="pinfo"></span><button id="next">下一页</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    数据来源 <span class="mono">site45.newmobilejumpstech.com/api</span> ·
+    测活方式：真实 OpenVPN TLS 握手（<span class="mono">--dev null</span>，不改本机路由与 DNS）·
+    仅用于逆向研究，节点为上游运营方基础设施，凭证获取不等于授权使用。
+  </div>
+</main>
+
+<div id="drawer">
+  <div class="dh">
+    <strong id="dtitle">节点详情</strong>
+    <div><button id="dprobe" class="primary">现场测活</button>
+         <button id="dclose">关闭</button></div>
+  </div>
+  <div class="db" id="dbody"></div>
+</div>
+
+<script>
+const S = {page:1, size:50, country:"", alive:"", q:"", total:0, items:[]};
+const $ = s => document.querySelector(s);
+const esc = s => (s??"").toString().replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function fmtVer(v){
+  if(v==="ALIVE") return '<span class="tag ok">存活</span>';
+  if(v==="AUTHFAIL") return '<span class="tag warn">凭证失效</span>';
+  if(v==="DEAD") return '<span class="tag bad">失效</span>';
+  if(v==="ERROR") return '<span class="tag bad">错误</span>';
+  return '<span class="tag na">未测</span>';
+}
+
+async function loadStats(){
+  const s = await (await fetch("/api/stats")).json();
+  $("#upstream").textContent = "上游 " + s.upstream;
+  const rate = s.alive_rate==null ? "—" : s.alive_rate+"%";
+  const barc = s.alive_rate==null?0:Math.min(100,s.alive_rate);
+  $("#cards").innerHTML = `
+    <div class="card"><div class="k">节点总数</div><div class="v">${s.total_nodes}</div>
+      <div class="sub">覆盖 ${s.countries} 个国家/地区</div></div>
+    <div class="card"><div class="k">已测活</div><div class="v">${s.probed}</div>
+      <div class="sub">存活 ${s.alive} · 失效 ${s.dead} · 凭证失效 ${s.authfail}</div></div>
+    <div class="card"><div class="k">存活率</div><div class="v">${rate}</div>
+      <div class="bar"><i style="width:${barc}%"></i></div></div>
+    <div class="card"><div class="k">握手延迟 P50 / P90</div>
+      <div class="v">${s.latency_s.p50 ?? "—"}<small>s / ${s.latency_s.p90 ?? "—"}s</small></div>
+      <div class="sub">min ${s.latency_s.min ?? "—"}s · max ${s.latency_s.max ?? "—"}s</div></div>
+    <div class="card"><div class="k">存活国家数</div><div class="v">${s.countries_alive}</div>
+      <div class="sub">协议 ${Object.keys(s.protos).join(" ")}</div></div>`;
+  const cl = $("#clist");
+  cl.innerHTML = "";
+  (s.top_countries_alive.length? s.top_countries_alive : s.top_countries).forEach(([c,n])=>{
+    const d=document.createElement("div");
+    d.className="crow"+(S.country===c.toLowerCase()?" on":"");
+    d.innerHTML=`<span>${esc(c)}</span><span class="c">${n}</span>`;
+    d.onclick=()=>{ S.country = (S.country===c.toLowerCase()?"":c.toLowerCase()); S.page=1; loadStats(); loadNodes(); };
+    cl.appendChild(d);
+  });
+}
+
+async function loadNodes(){
+  const p = new URLSearchParams({page:S.page, page_size:S.size, country:S.country, alive:S.alive, q:S.q});
+  const r = await (await fetch("/api/nodes?"+p)).json();
+  S.total = r.total; S.items = r.items;
+  $("#rows").innerHTML = r.items.map(n=>`
+    <tr data-id="${n.id}">
+      <td class="mono">${n.id}</td>
+      <td>${fmtVer(n.alive)}</td>
+      <td>${esc(n.country)}</td>
+      <td>${esc(n.name)}</td>
+      <td class="mono">${esc(n.remote)}:${n.port}</td>
+      <td class="mono">${esc(n.proto)}</td>
+      <td class="mono">${n.elapsed?n.elapsed+"s":"—"}</td>
+      <td><a href="/api/node/${n.id}/config">.ovpn</a></td>
+    </tr>`).join("") || `<tr><td colspan="8" style="color:var(--dim)">无匹配节点</td></tr>`;
+  document.querySelectorAll("#rows tr[data-id]").forEach(tr=>{
+    tr.onclick = e => { if(e.target.tagName!=="A") openNode(+tr.dataset.id); };
+  });
+  const pages = Math.max(1, Math.ceil(r.total / r.page_size));
+  $("#pinfo").textContent = `第 ${r.page} / ${pages} 页 · 共 ${r.total} 条`;
+  $("#prev").disabled = r.page<=1; $("#next").disabled = r.page>=pages;
+}
+
+async function openNode(id){
+  const d = $("#drawer"); d.classList.add("open");
+  $("#dtitle").textContent = "节点 #"+id;
+  $("#dbody").innerHTML = '<p class="sub"><span class="spin"></span> 载入中…</p>';
+  const r = await (await fetch("/api/node/"+id)).json();
+  const n = r.node;
+  $("#dtitle").textContent = `#${n.id} ${n.name}`;
+  $("#dbody").innerHTML = `
+    <div class="kv">
+      <div class="k">状态</div><div>${fmtVer(n.alive)} ${n.elapsed?`<span class="sub">握手 ${n.elapsed}s</span>`:""}</div>
+      <div class="k">国家</div><div>${esc(n.country)}</div>
+      <div class="k">远端</div><div class="mono">${esc(n.remote)}:${n.port} / ${esc(n.proto)}</div>
+      <div class="k">隧道 IP</div><div class="mono">${esc(n.tunnel_ip||"—")}</div>
+      <div class="k">TLS</div><div class="mono">${esc(n.tls_cipher||"—")}</div>
+      <div class="k">证书认证</div><div>${n.has_cert?"内置 client cert":"用户名/密码"}</div>
+      <div class="k">tls-crypt</div><div>${n.has_tls_crypt?"是":"否"}</div>
+      <div class="k">更新时间</div><div class="sub">${esc(n.updated_at||"—")}</div>
+      <div class="k">下载</div><div><a href="/api/node/${n.id}/config">node${n.id}.ovpn</a></div>
+    </div>
+    <h2 style="color:var(--dim);font-size:12px;text-transform:uppercase;margin:18px 0 0">配置预览（凭据块已折叠）</h2>
+    <pre class="mono">${esc(r.config_preview)}</pre>`;
+  $("#dprobe").onclick = async ()=>{
+    $("#dprobe").disabled=true; $("#dprobe").textContent="测活中…";
+    const res = await (await fetch("/api/probe",{method:"POST",headers:{"Content-Type":"application/json"},
+                          body:JSON.stringify({id})})).json();
+    $("#dprobe").disabled=false; $("#dprobe").textContent="现场测活";
+    const x = res.results[0];
+    alert(`${x.name}\n结果: ${x.verdict}\n耗时: ${x.elapsed}s\n隧道IP: ${x.tunnel_ip||"—"}\n加密: ${x.tls_cipher||"—"}`);
+    await loadNodes(); await loadStats();
+  };
+}
+
+$("#dclose").onclick = ()=> $("#drawer").classList.remove("open");
+$("#q").oninput = debounce(()=>{ S.q=$("#q").value.trim(); S.page=1; loadNodes(); }, 320);
+$("#alive").onchange = ()=>{ S.alive=$("#alive").value; S.page=1; loadNodes(); };
+$("#size").onchange = ()=>{ S.size=+$("#size").value; S.page=1; loadNodes(); };
+$("#prev").onclick = ()=>{ if(S.page>1){S.page--; loadNodes();} };
+$("#next").onclick = ()=>{ S.page++; loadNodes(); };
+$("#reload").onclick = ()=>{ loadStats(); loadNodes(); };
+$("#probePage").onclick = async ()=>{
+  const files = S.items.map(n=>n.file.split(/[\\/]/).pop()).filter(Boolean);
+  if(!files.length) return;
+  const btn=$("#probePage"); btn.disabled=true; btn.textContent="测活中…";
+  $("#hint").innerHTML = '<span class="spin"></span> 逐批握手…';
+  const out=[];
+  for(let i=0;i<files.length;i+=20){
+    const res = await (await fetch("/api/probe",{method:"POST",
+      headers:{"Content-Type":"application/json"},body:JSON.stringify({files:files.slice(i,i+20)})})).json();
+    out.push(...res.results);
+    $("#hint").textContent = `已测 ${Math.min(i+20,files.length)}/${files.length}`;
+  }
+  const alive = out.filter(x=>x.verdict==="ALIVE").length;
+  $("#hint").textContent = `本页存活 ${alive}/${out.length}`;
+  btn.disabled=false; btn.textContent="测活本页";
+  await loadNodes(); await loadStats();
+};
+
+function debounce(fn,ms){let t;return(...a)=>{clearTimeout(t);t=setTimeout(()=>fn(...a),ms);};}
+
+loadStats(); loadNodes(); setInterval(()=>{loadStats();}, 15000);
+</script>
+</body>
+</html>

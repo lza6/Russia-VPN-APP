@@ -1,0 +1,1045 @@
+{
+ "total_configs": 1167,
+ "alive": 725,
+ "alive_rate": 62.1,
+ "unique_ip": 455,
+ "alive_unique_ip": 321,
+ "latency_s": {
+  "p50": 2.5,
+  "p90": 3.34,
+  "p95": 5.15,
+  "min": 1.05,
+  "max": 18.69
+ },
+ "countries": 186,
+ "alive_countries": 148,
+ "top_countries_alive": [
+  [
+   "Russia,Moscow1",
+   33
+  ],
+  [
+   "Russia,Moscow3",
+   26
+  ],
+  [
+   "United States",
+   25
+  ],
+  [
+   "Russia,Moscow4",
+   24
+  ],
+  [
+   "Russia,Moscow2",
+   24
+  ],
+  [
+   "France",
+   14
+  ],
+  [
+   "Russia,Moscow5",
+   13
+  ],
+  [
+   "Russia,Moscow6",
+   13
+  ],
+  [
+   "Canada",
+   10
+  ],
+  [
+   "Japan",
+   10
+  ],
+  [
+   "Israel - Tel Aviv",
+   10
+  ],
+  [
+   "Japan - Tokyo",
+   10
+  ],
+  [
+   "India",
+   9
+  ],
+  [
+   "Netherland",
+   8
+  ],
+  [
+   "Kazakhstan",
+   8
+  ],
+  [
+   "Netherland - Amsterdam",
+   8
+  ],
+  [
+   "Armenia",
+   7
+  ],
+  [
+   "Luxembourg",
+   7
+  ],
+  [
+   "Spain",
+   7
+  ],
+  [
+   "Singapore",
+   7
+  ],
+  [
+   "Malaysia",
+   6
+  ],
+  [
+   "Russia,Moscow7",
+   6
+  ],
+  [
+   "Ukraine",
+   6
+  ],
+  [
+   "Azerbaijan",
+   6
+  ],
+  [
+   "Israel",
+   6
+  ],
+  [
+   "Albania",
+   6
+  ],
+  [
+   "Malaysia - Kuala Lumpur",
+   6
+  ],
+  [
+   "US - Charlotte",
+   6
+  ],
+  [
+   "US - Los Angeles",
+   6
+  ],
+  [
+   "US - San Jose",
+   6
+  ]
+ ],
+ "fail_reasons": {
+  "DEAD": 442
+ },
+ "by_update_year": {
+  "2024": {
+   "total": 289,
+   "alive": 235
+  },
+  "2025": {
+   "total": 524,
+   "alive": 242
+  },
+  "2026": {
+   "total": 354,
+   "alive": 248
+  }
+ },
+ "best_per_country": {
+  "Canada": {
+   "id": 1033,
+   "name": "Vancouver - 90",
+   "remote": "193.108.58.140",
+   "elapsed": 2.22
+  },
+  "Russia,Moscow4": {
+   "id": 1436,
+   "name": "Samara #04",
+   "remote": "135.136.44.46",
+   "elapsed": 2.24
+  },
+  "Russia,Moscow1": {
+   "id": 1548,
+   "name": "Moscow #84",
+   "remote": "135.136.44.43",
+   "elapsed": 2.21
+  },
+  "Malaysia": {
+   "id": 1129,
+   "name": "Kuala Lumpur - 82",
+   "remote": "124.217.246.207",
+   "elapsed": 1.81
+  },
+  "Russia,Moscow3": {
+   "id": 1523,
+   "name": "Moscow #59",
+   "remote": "135.136.44.43",
+   "elapsed": 2.24
+  },
+  "United States": {
+   "id": 941,
+   "name": "San Jose - 104",
+   "remote": "130.51.20.156",
+   "elapsed": 1.99
+  },
+  "Russia,Moscow5": {
+   "id": 1419,
+   "name": "Moscow - 23",
+   "remote": "135.136.44.60",
+   "elapsed": 2.25
+  },
+  "Russia,Moscow6": {
+   "id": 1407,
+   "name": "Yekaterinburg #02",
+   "remote": "135.136.44.26",
+   "elapsed": 2.36
+  },
+  "Russia,Moscow7": {
+   "id": 1418,
+   "name": "Moscow #14",
+   "remote": "135.136.44.43",
+   "elapsed": 2.23
+  },
+  "Russia,Moscow8": {
+   "id": 1451,
+   "name": "Moscow #18",
+   "remote": "135.136.44.60",
+   "elapsed": 2.35
+  },
+  "Russia,Moscow9": {
+   "id": 11,
+   "name": "Moscow #09",
+   "remote": "135.136.44.52",
+   "elapsed": 2.25
+  },
+  "Russia,Moscow10": {
+   "id": 1486,
+   "name": "Moscow #33",
+   "remote": "135.136.44.35",
+   "elapsed": 2.48
+  },
+  "Switzerland": {
+   "id": 212,
+   "name": "Zurich - 26",
+   "remote": "194.124.33.251",
+   "elapsed": 2.65
+  },
+  "Russia,Moscow11": {
+   "id": 1488,
+   "name": "Moscow #35",
+   "remote": "135.136.44.53",
+   "elapsed": 2.24
+  },
+  "Russia,Moscow12": {
+   "id": 14,
+   "name": "Moscow #12",
+   "remote": "135.136.44.30",
+   "elapsed": 2.39
+  },
+  "Chile": {
+   "id": 213,
+   "name": "Santiago - 1256",
+   "remote": "38.7.199.245",
+   "elapsed": 2.93
+  },
+  "Russia,Moscow2": {
+   "id": 1559,
+   "name": "Moscow #97",
+   "remote": "135.136.44.35",
+   "elapsed": 2.23
+  },
+  "Colombia": {
+   "id": 214,
+   "name": "Bogotá - 2913",
+   "remote": "146.70.136.19",
+   "elapsed": 2.26
+  },
+  "Ukraine": {
+   "id": 1307,
+   "name": "Kiev - 01",
+   "remote": "5.188.6.136",
+   "elapsed": 2.65
+  },
+  "Costa Rica": {
+   "id": 55,
+   "name": "San José - 2104",
+   "remote": "190.10.8.79",
+   "elapsed": 2.43
+  },
+  "Vietnam": {
+   "id": 1309,
+   "name": "Hanoi #04",
+   "remote": "103.197.185.5",
+   "elapsed": 1.47
+  },
+  "Armenia": {
+   "id": 1566,
+   "name": "Yerevan - 03",
+   "remote": "139.28.4.59",
+   "elapsed": 2.41
+  },
+  "Slovakia": {
+   "id": 31,
+   "name": "Bratislava - 03",
+   "remote": "185.48.249.120",
+   "elapsed": 2.4
+  },
+  "Czechia": {
+   "id": 1055,
+   "name": "Prague - 214",
+   "remote": "195.123.245.71",
+   "elapsed": 1.29
+  },
+  "Sweden": {
+   "id": 1179,
+   "name": "Stockholm - 91",
+   "remote": "80.239.189.73",
+   "elapsed": 2.47
+  },
+  "Serbia": {
+   "id": 34,
+   "name": "Belgrade - 02",
+   "remote": "185.48.250.66",
+   "elapsed": 2.66
+  },
+  "Romania": {
+   "id": 1494,
+   "name": "Bucharest - 23",
+   "remote": "213.156.142.151",
+   "elapsed": 2.59
+  },
+  "Luxembourg": {
+   "id": 1576,
+   "name": "Luxembourg - 2567",
+   "remote": "45.80.210.16",
+   "elapsed": 2.21
+  },
+  "Portugal": {
+   "id": 1170,
+   "name": "Lisbon - 03",
+   "remote": "185.113.140.121",
+   "elapsed": 2.57
+  },
+  "Poland": {
+   "id": 1168,
+   "name": "Warsaw - 193",
+   "remote": "89.223.91.188",
+   "elapsed": 2.4
+  },
+  "Peru": {
+   "id": 1161,
+   "name": "Lima - 61",
+   "remote": "161.132.42.182",
+   "elapsed": 2.82
+  },
+  "Norway": {
+   "id": 1152,
+   "name": "Oslo - 1440",
+   "remote": "217.170.194.204",
+   "elapsed": 2.35
+  },
+  "Azerbaijan": {
+   "id": 1580,
+   "name": "Baku #05",
+   "remote": "180.149.44.140",
+   "elapsed": 2.59
+  },
+  "Netherland": {
+   "id": 1139,
+   "name": "Amsterdam - 2823",
+   "remote": "207.174.30.45",
+   "elapsed": 2.22
+  },
+  "Mexico": {
+   "id": 43,
+   "name": "Guadalajara - 70",
+   "remote": "216.238.84.227",
+   "elapsed": 2.54
+  },
+  "Moldova": {
+   "id": 1492,
+   "name": "Chisinau - 22",
+   "remote": "89.43.111.69",
+   "elapsed": 2.48
+  },
+  "Latvia": {
+   "id": 1117,
+   "name": "Riga - 2332",
+   "remote": "185.135.86.228",
+   "elapsed": 2.65
+  },
+  "Kazakhstan": {
+   "id": 1582,
+   "name": "Almaty - 05",
+   "remote": "45.80.208.108",
+   "elapsed": 2.46
+  },
+  "Ireland": {
+   "id": 1107,
+   "name": "Dublin - 06",
+   "remote": "193.56.252.221",
+   "elapsed": 2.28
+  },
+  "France": {
+   "id": 1093,
+   "name": "Marseille - 91",
+   "remote": "95.81.84.161",
+   "elapsed": 2.15
+  },
+  "Finland": {
+   "id": 1083,
+   "name": "Helsinki - 2603",
+   "remote": "38.135.53.152",
+   "elapsed": 2.34
+  },
+  "Denmark": {
+   "id": 1074,
+   "name": "Copenhagen - 2506",
+   "remote": "185.245.84.123",
+   "elapsed": 2.26
+  },
+  "Saudi Arabia": {
+   "id": 1586,
+   "name": "Riyadh - 02",
+   "remote": "156.244.8.96",
+   "elapsed": 2.55
+  },
+  "Estonia": {
+   "id": 51,
+   "name": "Tallinn - 11",
+   "remote": "185.155.98.101",
+   "elapsed": 2.35
+  },
+  "Bulgaria": {
+   "id": 208,
+   "name": "Sofia - 18",
+   "remote": "89.44.197.183",
+   "elapsed": 2.47
+  },
+  "Bosnia and Herzegovina": {
+   "id": 1342,
+   "name": "Novi Travnik #02",
+   "remote": "185.164.32.159",
+   "elapsed": 2.85
+  },
+  "Belgium": {
+   "id": 63,
+   "name": "Brussels - 123",
+   "remote": "193.9.114.133",
+   "elapsed": 2.19
+  },
+  "Bangladesh": {
+   "id": 1343,
+   "name": "Dhaka - 01",
+   "remote": "38.54.42.17",
+   "elapsed": 3.33
+  },
+  "Bahamas": {
+   "id": 1344,
+   "name": "Nassau - 01",
+   "remote": "194.233.91.251",
+   "elapsed": 3.31
+  },
+  "Algeria": {
+   "id": 1346,
+   "name": "Algiers - 01",
+   "remote": "109.123.233.137",
+   "elapsed": 3.21
+  },
+  "Georgia": {
+   "id": 1348,
+   "name": "Tbilisi - 01",
+   "remote": "109.123.235.64",
+   "elapsed": 3.36
+  },
+  "Greenland": {
+   "id": 1349,
+   "name": "Nuuk - 01",
+   "remote": "154.26.139.143",
+   "elapsed": 3.54
+  },
+  "Isle of Man": {
+   "id": 1351,
+   "name": "Kirk Braddan - 01",
+   "remote": "194.233.90.230",
+   "elapsed": 6.19
+  },
+  "Cambodia": {
+   "id": 1352,
+   "name": "Phnom Penh - 01",
+   "remote": "220.158.233.172",
+   "elapsed": 2.2
+  },
+  "Liechtenstein": {
+   "id": 1354,
+   "name": "Schaan - 01",
+   "remote": "194.233.94.245",
+   "elapsed": 4.81
+  },
+  "Croatia": {
+   "id": 223,
+   "name": "Zagreb - 1203",
+   "remote": "185.203.18.242",
+   "elapsed": 2.45
+  },
+  "Sri Lanka": {
+   "id": 1355,
+   "name": "Colombo - 01",
+   "remote": "109.123.236.43",
+   "elapsed": 3.26
+  },
+  "Lithuania": {
+   "id": 1356,
+   "name": "Šiauliai - 01",
+   "remote": "195.238.126.167",
+   "elapsed": 2.8
+  },
+  "Morocco": {
+   "id": 1357,
+   "name": "Rabat - 01",
+   "remote": "109.123.233.137",
+   "elapsed": 3.38
+  },
+  "Hungary": {
+   "id": 224,
+   "name": "Budapest - 88",
+   "remote": "5.181.77.163",
+   "elapsed": 2.53
+  },
+  "Monaco": {
+   "id": 1358,
+   "name": "Monaco - 01",
+   "remote": "194.233.90.230",
+   "elapsed": 5.88
+  },
+  "Montenegro": {
+   "id": 1359,
+   "name": "Podgorica - 01",
+   "remote": "194.233.91.252",
+   "elapsed": 3.32
+  },
+  "Mongolia": {
+   "id": 1360,
+   "name": "Ulan Bator - 01",
+   "remote": "194.233.91.251",
+   "elapsed": 3.36
+  },
+  "Spain": {
+   "id": 82,
+   "name": "Madrid - 104",
+   "remote": "5.189.222.7",
+   "elapsed": 2.2
+  },
+  "Malta": {
+   "id": 1362,
+   "name": "Il-Madliena - 01",
+   "remote": "109.123.235.64",
+   "elapsed": 10.7
+  },
+  "Panama": {
+   "id": 1363,
+   "name": "Panama City - 02",
+   "remote": "154.26.139.143",
+   "elapsed": 3.51
+  },
+  "Philippines": {
+   "id": 624,
+   "name": "Manila #01",
+   "remote": "194.233.90.230",
+   "elapsed": 4.97
+  },
+  "Iceland": {
+   "id": 226,
+   "name": "Keflavik - 38",
+   "remote": "37.235.49.166",
+   "elapsed": 2.77
+  },
+  "Qatar": {
+   "id": 1365,
+   "name": "Doha - 01",
+   "remote": "156.244.3.136",
+   "elapsed": 2.32
+  },
+  "Hong Kong": {
+   "id": 604,
+   "name": "Central #01",
+   "remote": "46.151.33.152",
+   "elapsed": 2.23
+  },
+  "Indonesia": {
+   "id": 613,
+   "name": "Jakarta #01",
+   "remote": "157.15.77.190",
+   "elapsed": 1.26
+  },
+  "Israel": {
+   "id": 694,
+   "name": "Tel Aviv #08",
+   "remote": "45.150.108.221",
+   "elapsed": 2.76
+  },
+  "Thailand": {
+   "id": 617,
+   "name": "Bangkok #01",
+   "remote": "45.136.238.31",
+   "elapsed": 1.61
+  },
+  "Nigeria": {
+   "id": 1132,
+   "name": "Lagos - 101",
+   "remote": "194.233.91.252",
+   "elapsed": 3.1
+  },
+  "Japan": {
+   "id": 640,
+   "name": "Tokyo - 104",
+   "remote": "155.133.7.112",
+   "elapsed": 2.65
+  },
+  "Singapore": {
+   "id": 657,
+   "name": "Singapore - 101",
+   "remote": "154.26.139.143",
+   "elapsed": 3.2
+  },
+  "North Macedonia": {
+   "id": 661,
+   "name": "Skopje - 01",
+   "remote": "195.144.24.56",
+   "elapsed": 1.05
+  },
+  "Slovenia": {
+   "id": 1184,
+   "name": "Ljubljana - 05",
+   "remote": "130.195.245.141",
+   "elapsed": 10.66
+  },
+  "Greece": {
+   "id": 1498,
+   "name": "Athens - 28",
+   "remote": "185.162.238.193",
+   "elapsed": 2.75
+  },
+  "India": {
+   "id": 163,
+   "name": "Bengaluru - 1227",
+   "remote": "146.70.142.117",
+   "elapsed": 1.47
+  },
+  "Taiwan": {
+   "id": 1191,
+   "name": "Taipei - 1103",
+   "remote": "203.75.191.35",
+   "elapsed": 1.52
+  },
+  "Cyprus": {
+   "id": 1222,
+   "name": "Nicosia - 01",
+   "remote": "213.169.131.8",
+   "elapsed": 2.88
+  },
+  "United Arab Emirates": {
+   "id": 979,
+   "name": "Dubai - 2131",
+   "remote": "89.36.162.80",
+   "elapsed": 1.86
+  },
+  "Austria": {
+   "id": 989,
+   "name": "Vienna - 29",
+   "remote": "104.143.0.143",
+   "elapsed": 1.42
+  },
+  "South Africa": {
+   "id": 975,
+   "name": "Johannesburg - 11",
+   "remote": "102.130.122.128",
+   "elapsed": 3.23
+  },
+  "Andorra": {
+   "id": 1233,
+   "name": "Andorra la Vella - 01",
+   "remote": "194.233.94.245",
+   "elapsed": 3.33
+  },
+  "Albania": {
+   "id": 986,
+   "name": "Tirana - 103",
+   "remote": "103.167.234.38",
+   "elapsed": 2.54
+  },
+  "United Kingdom": {
+   "id": 243,
+   "name": "England - 02",
+   "remote": "82.22.20.61",
+   "elapsed": 2.6
+  },
+  "LU - Luxembourg": {
+   "id": 512,
+   "name": "Luxembourg #02",
+   "remote": "45.80.209.41",
+   "elapsed": 2.24
+  },
+  "Malaysia - Kuala Lumpur": {
+   "id": 513,
+   "name": "Kuala Lumpur #01",
+   "remote": "124.217.246.199",
+   "elapsed": 1.73
+  },
+  "Mexico - Guadalajara": {
+   "id": 516,
+   "name": "Guadalajara #02",
+   "remote": "216.238.80.105",
+   "elapsed": 2.6
+  },
+  "Moldova - Chisinau": {
+   "id": 106,
+   "name": "Chisinau #01",
+   "remote": "89.43.111.105",
+   "elapsed": 2.6
+  },
+  "Netherland - Amsterdam": {
+   "id": 1146,
+   "name": "Amsterdam #07",
+   "remote": "5.181.76.201",
+   "elapsed": 2.13
+  },
+  "US - Charlotte": {
+   "id": 77,
+   "name": "Charlotte #07",
+   "remote": "155.254.30.178",
+   "elapsed": 2.38
+  },
+  "Nigeria - Lagos": {
+   "id": 532,
+   "name": "Lagos #02",
+   "remote": "194.233.91.252",
+   "elapsed": 3.19
+  },
+  "Colombia - Bogotá": {
+   "id": 54,
+   "name": "Bogotá #05",
+   "remote": "146.70.136.26",
+   "elapsed": 2.37
+  },
+  "Norway - Oslo": {
+   "id": 537,
+   "name": "Oslo #02",
+   "remote": "217.170.194.204",
+   "elapsed": 2.31
+  },
+  "Peru - Lima": {
+   "id": 1160,
+   "name": "Lima #05",
+   "remote": "161.132.42.180",
+   "elapsed": 2.82
+  },
+  "Poland - Warsaw": {
+   "id": 543,
+   "name": "Warsaw #01",
+   "remote": "5.189.221.244",
+   "elapsed": 2.38
+  },
+  "Vietnam - Hanoi": {
+   "id": 1311,
+   "name": "Hanoi #05",
+   "remote": "103.197.185.34",
+   "elapsed": 1.68
+  },
+  "Slovakia - Bratislava": {
+   "id": 32,
+   "name": "Bratislava #05",
+   "remote": "185.48.248.134",
+   "elapsed": 2.52
+  },
+  "US - Denver": {
+   "id": 290,
+   "name": "Denver #04",
+   "remote": "139.28.179.93",
+   "elapsed": 2.15
+  },
+  "Portugal - Lisbon": {
+   "id": 549,
+   "name": "Lisbon #02",
+   "remote": "185.113.140.121",
+   "elapsed": 2.47
+  },
+  "Romania - Bucharest": {
+   "id": 99,
+   "name": "Bucharest #02",
+   "remote": "213.156.142.191",
+   "elapsed": 2.6
+  },
+  "Serbia - Belgrade": {
+   "id": 100,
+   "name": "Belgrade #02",
+   "remote": "185.48.250.66",
+   "elapsed": 2.75
+  },
+  "US - Los Angeles": {
+   "id": 307,
+   "name": "Los Angeles #05",
+   "remote": "107.152.46.237",
+   "elapsed": 1.99
+  },
+  "SG - Singapore": {
+   "id": 559,
+   "name": "Singapore #01",
+   "remote": "109.123.235.64",
+   "elapsed": 3.26
+  },
+  "Latvia - Riga": {
+   "id": 48,
+   "name": "Riga #05",
+   "remote": "185.120.138.233",
+   "elapsed": 2.67
+  },
+  "Costa Rica - San José": {
+   "id": 434,
+   "name": "San José #02",
+   "remote": "190.10.8.79",
+   "elapsed": 2.6
+  },
+  "Slovenia - Ljubljana": {
+   "id": 568,
+   "name": "Ljubljana #01",
+   "remote": "130.195.245.138",
+   "elapsed": 18.69
+  },
+  "Chile - Santiago": {
+   "id": 118,
+   "name": "Santiago #03",
+   "remote": "38.7.199.248",
+   "elapsed": 2.96
+  },
+  "Spain - Madrid": {
+   "id": 575,
+   "name": "Madrid #03",
+   "remote": "5.189.222.29",
+   "elapsed": 2.28
+  },
+  "Spain - Valencia": {
+   "id": 95,
+   "name": "Valencia #03",
+   "remote": "5.189.222.43",
+   "elapsed": 2.36
+  },
+  "France - Marseille": {
+   "id": 463,
+   "name": "Marseille #01",
+   "remote": "95.81.84.163",
+   "elapsed": 2.23
+  },
+  "US - Phoenix": {
+   "id": 68,
+   "name": "Phoenix #08",
+   "remote": "107.152.45.30",
+   "elapsed": 2.0
+  },
+  "Sweden - Stockholm": {
+   "id": 94,
+   "name": "Stockholm #03",
+   "remote": "185.174.133.37",
+   "elapsed": 2.5
+  },
+  "US - San Jose": {
+   "id": 951,
+   "name": "San Jose #07",
+   "remote": "130.51.20.156",
+   "elapsed": 1.98
+  },
+  "Croatia - Zagreb": {
+   "id": 436,
+   "name": "Zagreb #01",
+   "remote": "185.203.18.242",
+   "elapsed": 2.57
+  },
+  "Switzerland - Zurich": {
+   "id": 93,
+   "name": "Zurich #03",
+   "remote": "45.90.59.144",
+   "elapsed": 2.5
+  },
+  "US - Chicago": {
+   "id": 76,
+   "name": "Chicago #08",
+   "remote": "216.227.189.156",
+   "elapsed": 4.78
+  },
+  "Hungary - Budapest": {
+   "id": 478,
+   "name": "Budapest #01",
+   "remote": "5.181.77.163",
+   "elapsed": 2.58
+  },
+  "Israel - Tel Aviv": {
+   "id": 81,
+   "name": "Tel Aviv #15",
+   "remote": "45.150.108.221",
+   "elapsed": 2.66
+  },
+  "Taiwan - Taipei": {
+   "id": 626,
+   "name": "Taipei #03",
+   "remote": "203.75.191.35",
+   "elapsed": 1.4
+  },
+  "Ukraine - Kiev": {
+   "id": 91,
+   "name": "Kiev #02",
+   "remote": "5.188.6.210",
+   "elapsed": 2.61
+  },
+  "Greece - Athens": {
+   "id": 668,
+   "name": "Athens #04",
+   "remote": "185.25.23.156",
+   "elapsed": 2.61
+  },
+  "Japan - Tokyo": {
+   "id": 646,
+   "name": "Tokyo #08",
+   "remote": "155.133.7.112",
+   "elapsed": 2.68
+  },
+  "South Africa - Johannesburg": {
+   "id": 90,
+   "name": "Johannesburg #03",
+   "remote": "102.130.122.131",
+   "elapsed": 3.24
+  },
+  "Indonesia - Jakarta": {
+   "id": 88,
+   "name": "Jakarta #02",
+   "remote": "157.15.77.190",
+   "elapsed": 1.28
+  },
+  "Hong Kong - Central": {
+   "id": 605,
+   "name": "Central #02",
+   "remote": "46.151.33.152",
+   "elapsed": 2.12
+  },
+  "Albania - Tirana": {
+   "id": 364,
+   "name": "Tirana #03",
+   "remote": "103.167.234.107",
+   "elapsed": 2.58
+  },
+  "Thailand - Bangkok": {
+   "id": 618,
+   "name": "Bangkok #02",
+   "remote": "45.136.238.31",
+   "elapsed": 1.69
+  },
+  "Ireland - Dublin": {
+   "id": 494,
+   "name": "Dublin #05",
+   "remote": "193.56.252.222",
+   "elapsed": 2.24
+  },
+  "Iceland - Keflavik": {
+   "id": 109,
+   "name": "Keflavik #01",
+   "remote": "37.235.49.166",
+   "elapsed": 2.63
+  },
+  "Azerbaijan - Baku": {
+   "id": 621,
+   "name": "Baku #02",
+   "remote": "180.149.44.17",
+   "elapsed": 2.91
+  },
+  "France - Paris": {
+   "id": 466,
+   "name": "Paris #01",
+   "remote": "141.11.155.25",
+   "elapsed": 2.39
+  },
+  "France - Bordeaux": {
+   "id": 459,
+   "name": "Bordeaux #02",
+   "remote": "185.154.155.93",
+   "elapsed": 2.64
+  },
+  "Finland - Helsinki": {
+   "id": 453,
+   "name": "Helsinki #01",
+   "remote": "91.149.255.161",
+   "elapsed": 2.41
+  },
+  "Philippines - Manila": {
+   "id": 625,
+   "name": "Manila #02",
+   "remote": "194.233.90.230",
+   "elapsed": 3.44
+  },
+  "Estonia - Tallinn": {
+   "id": 114,
+   "name": "Tallinn #02",
+   "remote": "185.174.135.91",
+   "elapsed": 2.22
+  },
+  "Denmark - Copenhagen": {
+   "id": 444,
+   "name": "Copenhagen #01",
+   "remote": "185.245.84.122",
+   "elapsed": 2.15
+  },
+  "Czechia - Prague": {
+   "id": 439,
+   "name": "Prague #02",
+   "remote": "195.123.245.71",
+   "elapsed": 1.19
+  },
+  "Canada - Vancouver": {
+   "id": 119,
+   "name": "Vancouver #04",
+   "remote": "193.108.58.141",
+   "elapsed": 2.14
+  },
+  "Canada - Montreal": {
+   "id": 121,
+   "name": "Montreal #03",
+   "remote": "167.160.94.157",
+   "elapsed": 2.27
+  },
+  "Bulgaria - Sofia": {
+   "id": 409,
+   "name": "Sofia #02",
+   "remote": "89.44.197.240",
+   "elapsed": 5.26
+  },
+  "Belgium - Brussels": {
+   "id": 124,
+   "name": "Brussels #03",
+   "remote": "193.9.114.132",
+   "elapsed": 2.15
+  },
+  "Austria - Vienna": {
+   "id": 391,
+   "name": "Vienna #04",
+   "remote": "104.143.0.177",
+   "elapsed": 1.58
+  },
+  "India - New Delhi": {
+   "id": 1225,
+   "name": "Pune #01",
+   "remote": "146.70.142.116",
+   "elapsed": 1.45
+  },
+  "India - Mumbai": {
+   "id": 483,
+   "name": "Mumbai #01",
+   "remote": "146.70.142.101",
+   "elapsed": 1.47
+  }
+ }
+}

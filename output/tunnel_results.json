@@ -1,0 +1,17 @@
+[
+ {
+  "file": "100_Serbia_Belgrade_Belgrade_02.ovpn",
+  "verdict": "EGRESS_OK",
+  "tun_ip": "10.8.0.26",
+  "setup_s": 4.57,
+  "wintun_ifindex": 56,
+  "exit_ip": "185.48.250.66",
+  "exit_country": "Serbia",
+  "exit_isp": "Maxim Azarov trading as eServer",
+  "rtt_ms": 849,
+  "down_kbps": 2802.3,
+  "country": "Serbia - Belgrade",
+  "remote": "185.48.250.66",
+  "geo_match": true
+ }
+]

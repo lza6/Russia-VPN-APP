@@ -1,0 +1,725 @@
+103.167.234.38:1194	udp	Albania	2.54s	986_Albania_Tirana_-_103.ovpn
+103.167.234.107:1194	udp	Albania	2.59s	982_Albania_Tirana_-_100.ovpn
+103.167.234.140:1194	udp	Albania	2.73s	984_Albania_Tirana_-_101.ovpn
+103.167.234.31:1194	udp	Albania	2.81s	985_Albania_Tirana_-_102.ovpn
+103.167.234.51:1194	udp	Albania	14.81s	1237_Albania_Tirana_-_02.ovpn
+103.167.234.38:1194	udp	Albania	18.62s	1236_Albania_Tirana_-_01.ovpn
+103.167.234.107:1194	udp	Albania - Tirana	2.58s	364_Albania_Tirana_Tirana_03.ovpn
+103.167.234.51:1194	udp	Albania - Tirana	2.59s	363_Albania_Tirana_Tirana_02.ovpn
+103.167.234.140:1194	udp	Albania - Tirana	2.59s	983_Albania_Tirana_Tirana_04.ovpn
+103.167.234.38:1194	udp	Albania - Tirana	2.81s	362_Albania_Tirana_Tirana_01.ovpn
+103.167.234.31:1194	udp	Albania - Tirana	5.18s	205_Albania_Tirana_Tirana_05.ovpn
+109.123.233.137:1194	udp	Algeria	3.21s	1346_Algeria_Algiers_-_01.ovpn
+194.233.94.245:1194	udp	Andorra	3.33s	1233_Andorra_Andorra_la_Vella_-_01.ovpn
+139.28.4.59:1194	udp	Armenia	2.41s	1566_Armenia_Yerevan_-_03.ovpn
+146.185.248.12:1194	udp	Armenia	2.44s	1490_Armenia_Yerevan_-_02.ovpn
+139.28.4.57:1194	udp	Armenia	2.46s	1569_Armenia_Yerevan_-_06.ovpn
+146.185.248.8:1194	udp	Armenia	2.55s	1232_Armenia_Yerevan_-_01.ovpn
+139.28.4.61:1194	udp	Armenia	2.62s	1568_Armenia_Yerevan_-_05.ovpn
+139.28.4.54:1194	udp	Armenia	2.68s	1567_Armenia_Yerevan_-_04.ovpn
+139.28.4.53:1194	udp	Armenia	2.7s	1570_Armenia_Yerevan_-_07.ovpn
+104.143.0.143:1194	udp	Austria	1.42s	989_Austria_Vienna_-_29.ovpn
+104.143.0.249:1194	udp	Austria	1.59s	206_Austria_Vienna_-_28.ovpn
+104.143.0.183:1194	udp	Austria	1.64s	990_Austria_Vienna_-_30.ovpn
+104.143.0.159:1194	udp	Austria	3.7s	992_Austria_Vienna_-_32.ovpn
+104.143.0.177:1194	udp	Austria	5.56s	991_Austria_Vienna_-_31.ovpn
+104.143.0.177:1194	udp	Austria - Vienna	1.58s	391_Austria_Vienna_Vienna_04.ovpn
+104.143.0.249:1194	udp	Austria - Vienna	1.6s	388_Austria_Vienna_Vienna_01.ovpn
+104.143.0.183:1194	udp	Austria - Vienna	1.61s	390_Austria_Vienna_Vienna_03.ovpn
+104.143.0.143:1194	udp	Austria - Vienna	3.03s	389_Austria_Vienna_Vienna_02.ovpn
+104.143.0.159:1194	udp	Austria - Vienna	5.3s	392_Austria_Vienna_Vienna_05.ovpn
+180.149.44.140:1194	udp	Azerbaijan	2.59s	1580_Azerbaijan_Baku_05.ovpn
+180.149.44.147:1194	udp	Azerbaijan	2.59s	1581_Azerbaijan_Baku_06.ovpn
+180.149.44.17:1194	udp	Azerbaijan	2.6s	620_Azerbaijan_Baku_01.ovpn
+180.149.44.143:1194	udp	Azerbaijan	2.63s	1578_Azerbaijan_Baku_03.ovpn
+180.149.44.146:1194	udp	Azerbaijan	2.65s	1579_Azerbaijan_Baku_04.ovpn
+180.149.44.148:1194	udp	Azerbaijan	2.72s	1577_Azerbaijan_Baku_02.ovpn
+180.149.44.17:1194	udp	Azerbaijan - Baku	2.91s	621_Azerbaijan_Baku_Baku_02.ovpn
+194.233.91.251:1194	udp	Bahamas	3.31s	1344_Bahamas_Nassau_-_01.ovpn
+38.54.42.17:1194	udp	Bangladesh	3.33s	1343_Bangladesh_Dhaka_-_01.ovpn
+193.9.114.133:1194	udp	Belgium	2.19s	63_Belgium_Brussels_-_123.ovpn
+193.9.114.131:1194	udp	Belgium	2.27s	1016_Belgium_Brussels_-_121.ovpn
+193.9.114.132:1194	udp	Belgium	2.27s	1017_Belgium_Brussels_-_122.ovpn
+193.9.114.134:1194	udp	Belgium	2.28s	1019_Belgium_Brussels_-_124.ovpn
+193.9.114.132:1194	udp	Belgium - Brussels	2.15s	124_Belgium_Brussels_Brussels_03.ovpn
+193.9.114.131:1194	udp	Belgium - Brussels	2.15s	394_Belgium_Brussels_Brussels_02.ovpn
+193.9.114.130:1194	udp	Belgium - Brussels	2.25s	393_Belgium_Brussels_Brussels_01.ovpn
+193.9.114.133:1194	udp	Belgium - Brussels	2.29s	396_Belgium_Brussels_Brussels_04.ovpn
+193.9.114.134:1194	udp	Belgium - Brussels	2.34s	397_Belgium_Brussels_Brussels_05.ovpn
+185.164.32.159:1194	udp	Bosnia and Herzegovina	2.85s	1342_Bosnia_and_Herzegovina_Novi_Travnik_02.ovpn
+89.44.197.183:1194	udp	Bulgaria	2.47s	208_Bulgaria_Sofia_-_18.ovpn
+185.183.131.139:1194	udp	Bulgaria	2.69s	62_Bulgaria_Sofia_-_21.ovpn
+89.44.197.240:1194	udp	Bulgaria	2.75s	1021_Bulgaria_Sofia_-_19.ovpn
+89.44.197.239:1194	udp	Bulgaria	2.84s	1022_Bulgaria_Sofia_-_20.ovpn
+89.44.197.240:1194	udp	Bulgaria - Sofia	5.26s	409_Bulgaria_Sofia_Sofia_02.ovpn
+89.44.197.183:1194	udp	Bulgaria - Sofia	5.42s	122_Bulgaria_Sofia_Sofia_01.ovpn
+220.158.233.172:1194	udp	Cambodia	2.2s	1352_Cambodia_Phnom_Penh_-_01.ovpn
+193.108.58.140:1194	udp	Canada	2.22s	1033_Canada_Vancouver_-_90.ovpn
+193.108.58.141:1194	udp	Canada	2.24s	1034_Canada_Vancouver_-_91.ovpn
+167.160.94.157:1194	udp	Canada	2.33s	1025_Canada_Montreal_-_690.ovpn
+167.160.94.158:1194	udp	Canada	2.38s	1026_Canada_Montreal_-_691.ovpn
+167.160.94.155:1194	udp	Canada	2.4s	210_Canada_Montreal_-_686.ovpn
+167.160.94.155:1194	udp	Canada	2.45s	1027_Canada_Montreal_-_692.ovpn
+167.160.94.156:1194	udp	Canada	2.48s	1024_Canada_Montreal_-_689.ovpn
+193.108.58.132:1194	udp	Canada	4.73s	1035_Canada_Vancouver_-_92.ovpn
+193.108.58.138:1194	udp	Canada	5.13s	1032_Canada_Vancouver_-_89.ovpn
+193.108.58.139:1194	udp	Canada	5.32s	211_Canada_Vancouver_-_88.ovpn
+167.160.94.157:1194	udp	Canada - Montreal	2.27s	121_Canada_Montreal_Montreal_03.ovpn
+167.160.94.156:1194	udp	Canada - Montreal	2.31s	412_Canada_Montreal_Montreal_02.ovpn
+167.160.94.158:1194	udp	Canada - Montreal	2.34s	414_Canada_Montreal_Montreal_04.ovpn
+167.160.94.155:1194	udp	Canada - Montreal	2.35s	415_Canada_Montreal_Montreal_05.ovpn
+167.160.94.155:1194	udp	Canada - Montreal	2.49s	411_Canada_Montreal_Montreal_01.ovpn
+193.108.58.141:1194	udp	Canada - Vancouver	2.14s	119_Canada_Vancouver_Vancouver_04.ovpn
+193.108.58.140:1194	udp	Canada - Vancouver	2.17s	424_Canada_Vancouver_Vancouver_03.ovpn
+193.108.58.138:1194	udp	Canada - Vancouver	4.86s	423_Canada_Vancouver_Vancouver_02.ovpn
+193.108.58.139:1194	udp	Canada - Vancouver	11.32s	421_Canada_Vancouver_Vancouver_01.ovpn
+38.7.199.245:1194	udp	Chile	2.93s	213_Chile_Santiago_-_1256.ovpn
+38.7.216.187:1194	udp	Chile	2.98s	1044_Chile_Santiago_-_1260.ovpn
+38.7.216.189:1194	udp	Chile	3.05s	57_Chile_Santiago_-_1259.ovpn
+38.7.199.243:1194	udp	Chile	3.22s	1041_Chile_Santiago_-_1257.ovpn
+38.7.199.248:1194	udp	Chile	4.85s	1042_Chile_Santiago_-_1258.ovpn
+38.7.199.248:1194	udp	Chile - Santiago	2.96s	118_Chile_Santiago_Santiago_03.ovpn
+38.7.199.245:1194	udp	Chile - Santiago	2.98s	426_Chile_Santiago_Santiago_01.ovpn
+38.7.216.187:1194	udp	Chile - Santiago	3.03s	58_Chile_Santiago_Santiago_05.ovpn
+38.7.199.243:1194	udp	Chile - Santiago	3.09s	427_Chile_Santiago_Santiago_02.ovpn
+38.7.216.189:1194	udp	Chile - Santiago	3.12s	429_Chile_Santiago_Santiago_04.ovpn
+146.70.136.19:1194	udp	Colombia	2.26s	214_Colombia_Bogot_-_2913.ovpn
+146.70.136.21:1194	udp	Colombia	2.37s	60_Colombia_Bogot_-_2915.ovpn
+146.70.136.22:1194	udp	Colombia	2.42s	1049_Colombia_Bogot_-_2916.ovpn
+146.70.136.20:1194	udp	Colombia	2.44s	1047_Colombia_Bogot_-_2914.ovpn
+146.70.136.26:1194	udp	Colombia	2.53s	1050_Colombia_Bogot_-_2917.ovpn
+146.70.136.26:1194	udp	Colombia - Bogotá	2.37s	54_Colombia_Bogot__Bogot_05.ovpn
+146.70.136.19:1194	udp	Colombia - Bogotá	2.4s	430_Colombia_Bogot__Bogot_01.ovpn
+146.70.136.20:1194	udp	Colombia - Bogotá	2.4s	431_Colombia_Bogot__Bogot_02.ovpn
+146.70.136.21:1194	udp	Colombia - Bogotá	2.43s	432_Colombia_Bogot__Bogot_03.ovpn
+146.70.136.22:1194	udp	Colombia - Bogotá	2.49s	1045_Colombia_Bogot__Bogot_04.ovpn
+190.10.8.79:1194	udp	Costa Rica	2.43s	55_Costa_Rica_San_Jos_-_2104.ovpn
+190.10.8.213:1194	udp	Costa Rica	2.52s	1053_Costa_Rica_San_Jos_-_2105.ovpn
+190.10.8.166:1194	udp	Costa Rica	2.62s	1054_Costa_Rica_San_Jos_-_2106.ovpn
+190.10.8.177:1194	udp	Costa Rica	2.68s	215_Costa_Rica_San_Jos_-_2103.ovpn
+190.10.8.79:1194	udp	Costa Rica - San José	2.6s	434_Costa_Rica_San_Jos__San_Jos_02.ovpn
+190.10.8.213:1194	udp	Costa Rica - San José	2.63s	435_Costa_Rica_San_Jos__San_Jos_03.ovpn
+190.10.8.166:1194	udp	Costa Rica - San José	2.66s	56_Costa_Rica_San_Jos__San_Jos_04.ovpn
+190.10.8.177:1194	udp	Costa Rica - San José	5.34s	117_Costa_Rica_San_Jos__San_Jos_01.ovpn
+185.203.18.242:1194	udp	Croatia	2.45s	223_Croatia_Zagreb_-_1203.ovpn
+194.36.45.52:1194	udp	Croatia	2.51s	1100_Croatia_Zagreb_-_1205.ovpn
+194.36.45.18:1194	udp	Croatia	2.61s	1099_Croatia_Zagreb_-_1204.ovpn
+185.203.18.242:1194	udp	Croatia - Zagreb	2.57s	436_Croatia_Zagreb_Zagreb_01.ovpn
+194.36.45.18:1194	udp	Croatia - Zagreb	2.69s	437_Croatia_Zagreb_Zagreb_02.ovpn
+194.36.45.52:1194	udp	Croatia - Zagreb	2.76s	1098_Croatia_Zagreb_Zagreb_04.ovpn
+213.169.131.8:1194	udp	Cyprus	2.88s	1222_Cyprus_Nicosia_-_01.ovpn
+195.123.245.71:1194	udp	Czechia	1.29s	1055_Czechia_Prague_-_214.ovpn
+195.123.246.181:1194	udp	Czechia	2.08s	1058_Czechia_Prague_-_217.ovpn
+195.123.246.22:1194	udp	Czechia	2.32s	216_Czechia_Prague_-_213.ovpn
+195.123.246.177:1194	udp	Czechia	2.33s	1056_Czechia_Prague_-_215.ovpn
+62.233.57.171:1194	udp	Czechia	2.38s	1057_Czechia_Prague_-_216.ovpn
+195.123.245.71:1194	udp	Czechia - Prague	1.19s	439_Czechia_Prague_Prague_02.ovpn
+195.123.246.22:1194	udp	Czechia - Prague	2.3s	438_Czechia_Prague_Prague_01.ovpn
+195.123.246.177:1194	udp	Czechia - Prague	2.34s	440_Czechia_Prague_Prague_03.ovpn
+195.123.246.181:1194	udp	Czechia - Prague	2.35s	442_Czechia_Prague_Prague_05.ovpn
+62.233.57.171:1194	udp	Czechia - Prague	2.38s	116_Czechia_Prague_Prague_04.ovpn
+185.245.84.123:1194	udp	Denmark	2.26s	1074_Denmark_Copenhagen_-_2506.ovpn
+185.245.84.122:1194	udp	Denmark	2.27s	190_Denmark_Copenhagen_-_2505.ovpn
+185.245.84.124:1194	udp	Denmark	2.3s	1075_Denmark_Copenhagen_-_2507.ovpn
+185.245.84.126:1194	udp	Denmark	2.35s	52_Denmark_Copenhagen_-_2509.ovpn
+185.245.84.125:1194	udp	Denmark	2.4s	1076_Denmark_Copenhagen_-_2508.ovpn
+185.245.84.122:1194	udp	Denmark - Copenhagen	2.15s	444_Denmark_Copenhagen_Copenhagen_01.ovpn
+185.245.84.125:1194	udp	Denmark - Copenhagen	2.27s	446_Denmark_Copenhagen_Copenhagen_04.ovpn
+185.245.84.124:1194	udp	Denmark - Copenhagen	2.31s	445_Denmark_Copenhagen_Copenhagen_03.ovpn
+185.245.84.126:1194	udp	Denmark - Copenhagen	2.35s	115_Denmark_Copenhagen_Copenhagen_05.ovpn
+185.245.84.123:1194	udp	Denmark - Copenhagen	2.35s	443_Denmark_Copenhagen_Copenhagen_02.ovpn
+185.155.98.101:1194	udp	Estonia	2.35s	51_Estonia_Tallinn_-_11.ovpn
+185.174.135.94:1194	udp	Estonia	2.41s	217_Estonia_Tallinn_-_08.ovpn
+185.155.98.102:1194	udp	Estonia	2.45s	1080_Estonia_Tallinn_-_10.ovpn
+185.174.135.91:1194	udp	Estonia	2.56s	1079_Estonia_Tallinn_-_09.ovpn
+185.174.135.91:1194	udp	Estonia - Tallinn	2.22s	114_Estonia_Tallinn_Tallinn_02.ovpn
+185.155.98.102:1194	udp	Estonia - Tallinn	2.49s	452_Estonia_Tallinn_Tallinn_03.ovpn
+185.174.135.94:1194	udp	Estonia - Tallinn	2.82s	450_Estonia_Tallinn_Tallinn_01.ovpn
+38.135.53.152:1194	udp	Finland	2.34s	1083_Finland_Helsinki_-_2603.ovpn
+38.135.53.189:1194	udp	Finland	2.39s	50_Finland_Helsinki_-_2604.ovpn
+91.149.255.161:1194	udp	Finland	2.4s	219_Finland_Helsinki_-_2601.ovpn
+38.135.53.117:1194	udp	Finland	2.41s	1085_Finland_Helsinki_-_2605.ovpn
+38.135.53.118:1194	udp	Finland	2.51s	1082_Finland_Helsinki_-_2602.ovpn
+91.149.255.161:1194	udp	Finland - Helsinki	2.41s	453_Finland_Helsinki_Helsinki_01.ovpn
+38.135.53.118:1194	udp	Finland - Helsinki	2.45s	454_Finland_Helsinki_Helsinki_02.ovpn
+38.135.53.152:1194	udp	Finland - Helsinki	2.45s	455_Finland_Helsinki_Helsinki_03.ovpn
+38.135.53.117:1194	udp	Finland - Helsinki	2.45s	457_Finland_Helsinki_Helsinki_05.ovpn
+38.135.53.189:1194	udp	Finland - Helsinki	2.46s	113_Finland_Helsinki_Helsinki_04.ovpn
+95.81.84.161:1194	udp	France	2.15s	1093_France_Marseille_-_91.ovpn
+141.11.155.25:1194	udp	France	2.22s	169_France_Paris_-_1946.ovpn
+185.35.221.6:1194	udp	France	2.28s	1091_France_Marseille_-_89.ovpn
+95.81.84.163:1194	udp	France	2.3s	221_France_Marseille_-_88.ovpn
+95.81.84.160:1194	udp	France	2.33s	1092_France_Marseille_-_90.ovpn
+185.154.155.236:1194	udp	France	2.46s	1087_France_Bordeaux_-_125.ovpn
+185.154.155.93:1194	udp	France	2.47s	1086_France_Bordeaux_-_124.ovpn
+185.154.154.156:1194	udp	France	2.47s	1088_France_Bordeaux_-_126.ovpn
+212.193.2.174:1194	udp	France	2.47s	1094_France_Paris_-_1947.ovpn
+212.193.2.66:1194	udp	France	2.5s	1097_France_Paris_-_1950.ovpn
+185.154.154.181:1194	udp	France	2.51s	220_France_Bordeaux_-_123.ovpn
+185.154.155.48:1194	udp	France	2.52s	1089_France_Bordeaux_-_127.ovpn
+212.193.2.8:1194	udp	France	2.58s	1095_France_Paris_-_1948.ovpn
+212.193.2.3:1194	udp	France	2.66s	49_France_Paris_-_1949.ovpn
+185.154.155.93:1194	udp	France - Bordeaux	2.64s	459_France_Bordeaux_Bordeaux_02.ovpn
+185.154.155.236:1194	udp	France - Bordeaux	2.74s	460_France_Bordeaux_Bordeaux_03.ovpn
+185.154.154.181:1194	udp	France - Bordeaux	5.37s	458_France_Bordeaux_Bordeaux_01.ovpn
+185.154.154.156:1194	udp	France - Bordeaux	7.64s	112_France_Bordeaux_Bordeaux_04.ovpn
+185.154.155.48:1194	udp	France - Bordeaux	8.59s	462_France_Bordeaux_Bordeaux_05.ovpn
+95.81.84.163:1194	udp	France - Marseille	2.23s	463_France_Marseille_Marseille_01.ovpn
+95.81.84.160:1194	udp	France - Marseille	2.27s	111_France_Marseille_Marseille_03.ovpn
+185.35.221.6:1194	udp	France - Marseille	2.35s	464_France_Marseille_Marseille_02.ovpn
+95.81.84.161:1194	udp	France - Marseille	2.45s	1090_France_Marseille_Marseille_04.ovpn
+141.11.155.25:1194	udp	France - Paris	2.39s	466_France_Paris_Paris_01.ovpn
+212.193.2.3:1194	udp	France - Paris	2.42s	471_France_Paris_Paris_04.ovpn
+212.193.2.174:1194	udp	France - Paris	2.43s	469_France_Paris_Paris_07.ovpn
+212.193.2.8:1194	udp	France - Paris	2.51s	470_France_Paris_Paris_03.ovpn
+212.193.2.66:1194	udp	France - Paris	2.52s	472_France_Paris_Paris_05.ovpn
+212.193.2.174:1194	udp	France - Paris	2.65s	110_France_Paris_Paris_02.ovpn
+109.123.235.64:1194	udp	Georgia	3.36s	1348_Georgia_Tbilisi_-_01.ovpn
+185.162.238.193:1194	udp	Greece	2.75s	1498_Greece_Athens_-_28.ovpn
+185.162.236.136:1194	udp	Greece	2.78s	674_Greece_Athens_-_27.ovpn
+185.25.23.158:1194	udp	Greece	2.79s	673_Greece_Athens_-_26.ovpn
+185.25.23.156:1194	udp	Greece	2.95s	222_Greece_Athens_-_23.ovpn
+185.25.23.156:1194	udp	Greece - Athens	2.61s	668_Greece_Athens_Athens_04.ovpn
+185.162.238.193:1194	udp	Greece - Athens	2.62s	665_Greece_Athens_Athens_01.ovpn
+185.162.236.136:1194	udp	Greece - Athens	2.63s	84_Greece_Athens_Athens_03.ovpn
+185.25.23.158:1194	udp	Greece - Athens	2.9s	666_Greece_Athens_Athens_02.ovpn
+154.26.139.143:1194	udp	Greenland	3.54s	1349_Greenland_Nuuk_-_01.ovpn
+46.151.33.152:1194	udp	Hong Kong	2.23s	604_Hong_Kong_Central_01.ovpn
+46.151.33.152:1194	udp	Hong Kong - Central	2.12s	605_Hong_Kong_Central_Central_02.ovpn
+91.229.132.21:1194	udp	Hong Kong - Central	8.63s	606_Hong_Kong_Central_Central_03.ovpn
+5.181.77.163:1194	udp	Hungary	2.53s	224_Hungary_Budapest_-_88.ovpn
+5.181.77.154:1194	udp	Hungary	2.62s	1103_Hungary_Budapest_-_90.ovpn
+5.181.77.157:1194	udp	Hungary	5.81s	1104_Hungary_Budapest_-_91.ovpn
+5.181.77.121:1194	udp	Hungary	6.03s	1102_Hungary_Budapest_-_89.ovpn
+5.181.77.163:1194	udp	Hungary - Budapest	2.58s	478_Hungary_Budapest_Budapest_01.ovpn
+5.181.77.157:1194	udp	Hungary - Budapest	2.65s	1101_Hungary_Budapest_Budapest_04.ovpn
+5.181.77.121:1194	udp	Hungary - Budapest	2.65s	108_Hungary_Budapest_Budapest_02.ovpn
+5.181.77.154:1194	udp	Hungary - Budapest	2.66s	480_Hungary_Budapest_Budapest_03.ovpn
+37.235.49.166:1194	udp	Iceland	2.77s	226_Iceland_Keflavik_-_38.ovpn
+151.236.24.172:1194	udp	Iceland	2.78s	1109_Iceland_Keflavik_-_39.ovpn
+37.235.49.166:1194	udp	Iceland - Keflavik	2.63s	109_Iceland_Keflavik_Keflavik_01.ovpn
+151.236.24.172:1194	udp	Iceland - Keflavik	2.78s	482_Iceland_Keflavik_Keflavik_02.ovpn
+146.70.142.117:1194	udp	India	1.47s	163_India_Bengaluru_-_1227.ovpn
+146.70.142.100:1194	udp	India	1.5s	684_India_Mumbai_-_100.ovpn
+146.70.142.118:1194	udp	India	1.57s	687_India_Mumbai_-_104.ovpn
+146.70.142.99:1194	udp	India	1.58s	685_India_Mumbai_-_102.ovpn
+146.70.142.119:1194	udp	India	1.58s	686_India_Mumbai_-_103.ovpn
+146.70.142.115:1194	udp	India	1.67s	162_India_Mumbai_-_383.ovpn
+146.70.142.102:1194	udp	India	1.68s	688_India_New_Delhi_03.ovpn
+146.70.142.101:1194	udp	India	1.7s	689_India_New_Delhi_04.ovpn
+146.70.142.116:1194	udp	India	1.71s	164_India_Bengaluru_-_177.ovpn
+146.70.142.101:1194	udp	India - Mumbai	1.47s	483_India_Mumbai_Mumbai_01.ovpn
+146.70.142.117:1194	udp	India - Mumbai	1.48s	486_India_Mumbai_Mumbai_04.ovpn
+146.70.142.99:1194	udp	India - Mumbai	1.54s	487_India_Mumbai_Mumbai_05.ovpn
+146.70.142.102:1194	udp	India - Mumbai	1.67s	485_India_Mumbai_Mumbai_03.ovpn
+146.70.142.100:1194	udp	India - Mumbai	3.54s	484_India_Mumbai_Mumbai_02.ovpn
+146.70.142.116:1194	udp	India - New Delhi	1.45s	1225_India_New_Delhi_Pune_01.ovpn
+146.70.142.118:1194	udp	India - New Delhi	1.55s	489_India_New_Delhi_New_Delhi_02.ovpn
+146.70.142.119:1194	udp	India - New Delhi	1.57s	488_India_New_Delhi_New_Delhi_01.ovpn
+146.70.142.115:1194	udp	India - New Delhi	1.71s	663_India_New_Delhi_Chennai_01.ovpn
+157.15.77.190:1194	udp	Indonesia	1.26s	613_Indonesia_Jakarta_01.ovpn
+157.15.77.187:1194	udp	Indonesia	1.33s	1269_Indonesia_Jakarta_03.ovpn
+103.167.35.9:1194	udp	Indonesia	1.67s	1271_Indonesia_Jakarta_05.ovpn
+103.167.35.28:1194	udp	Indonesia	1.71s	1270_Indonesia_Jakarta_04.ovpn
+103.167.35.46:1194	udp	Indonesia	1.77s	1385_Indonesia_West_Java_01.ovpn
+157.15.77.190:1194	udp	Indonesia - Jakarta	1.28s	88_Indonesia_Jakarta_Jakarta_02.ovpn
+193.56.252.221:1194	udp	Ireland	2.28s	1107_Ireland_Dublin_-_06.ovpn
+193.56.252.218:1194	udp	Ireland	2.29s	225_Ireland_Dublin_-_03.ovpn
+193.56.252.222:1194	udp	Ireland	2.4s	47_Ireland_Dublin_-_07.ovpn
+193.56.252.219:1194	udp	Ireland	2.45s	1105_Ireland_Dublin_-_04.ovpn
+193.56.252.220:1194	udp	Ireland	2.48s	1106_Ireland_Dublin_-_05.ovpn
+193.56.252.222:1194	udp	Ireland - Dublin	2.24s	494_Ireland_Dublin_Dublin_05.ovpn
+193.56.252.219:1194	udp	Ireland - Dublin	2.31s	491_Ireland_Dublin_Dublin_02.ovpn
+193.56.252.221:1194	udp	Ireland - Dublin	2.38s	493_Ireland_Dublin_Dublin_04.ovpn
+193.56.252.220:1194	udp	Ireland - Dublin	2.46s	107_Ireland_Dublin_Dublin_03.ovpn
+193.56.252.218:1194	udp	Ireland - Dublin	2.48s	490_Ireland_Dublin_Dublin_01.ovpn
+194.233.90.230:1194	udp	Isle of Man	6.19s	1351_Isle_of_Man_Kirk_Braddan_-_01.ovpn
+45.150.108.221:1194	udp	Israel	2.76s	694_Israel_Tel_Aviv_08.ovpn
+45.150.108.221:1194	udp	Israel	2.78s	691_Israel_Tel_Aviv_05.ovpn
+45.150.108.221:1194	udp	Israel	2.84s	692_Israel_Tel_Aviv_06.ovpn
+45.150.108.221:1194	udp	Israel	2.87s	693_Israel_Tel_Aviv_07.ovpn
+45.150.108.221:1194	udp	Israel	2.89s	615_Israel_Tel_Aviv_01.ovpn
+45.150.108.221:1194	udp	Israel	4.81s	690_Israel_Tel_Aviv_04.ovpn
+45.150.108.221:1194	udp	Israel - Tel Aviv	2.66s	81_Israel_Tel_Aviv_Tel_Aviv_15.ovpn
+45.150.108.221:1194	udp	Israel - Tel Aviv	2.82s	695_Israel_Tel_Aviv_Tel_Aviv_10.ovpn
+45.150.108.221:1194	udp	Israel - Tel Aviv	2.88s	696_Israel_Tel_Aviv_Tel_Aviv_11.ovpn
+45.150.108.221:1194	udp	Israel - Tel Aviv	2.92s	702_Israel_Tel_Aviv_Tel_Aviv_17.ovpn
+45.150.108.221:1194	udp	Israel - Tel Aviv	3.04s	701_Israel_Tel_Aviv_Tel_Aviv_16.ovpn
+45.150.108.221:1194	udp	Israel - Tel Aviv	4.69s	699_Israel_Tel_Aviv_Tel_Aviv_14.ovpn
+45.150.108.221:1194	udp	Israel - Tel Aviv	5.11s	664_Israel_Tel_Aviv_Tel_Aviv_03.ovpn
+45.150.108.221:1194	udp	Israel - Tel Aviv	10.73s	698_Israel_Tel_Aviv_Tel_Aviv_13.ovpn
+45.150.108.221:1194	udp	Israel - Tel Aviv	11.9s	697_Israel_Tel_Aviv_Tel_Aviv_12.ovpn
+45.150.108.221:1194	udp	Israel - Tel Aviv	14.4s	616_Israel_Tel_Aviv_Tel_Aviv_02.ovpn
+155.133.7.112:1194	udp	Japan	2.65s	640_Japan_Tokyo_-_104.ovpn
+155.133.7.106:1194	udp	Japan	2.67s	636_Japan_Tokyo_-_100.ovpn
+155.133.7.109:1194	udp	Japan	2.81s	634_Japan_Tokyo_-_2112.ovpn
+155.133.7.107:1194	udp	Japan	2.86s	635_Japan_Tokyo_-_2114.ovpn
+155.133.7.110:1194	udp	Japan	2.91s	633_Japan_Tokyo_-_61.ovpn
+155.133.7.114:1194	udp	Japan	2.99s	641_Japan_Tokyo_-_105.ovpn
+155.133.7.105:1194	udp	Japan	3.01s	638_Japan_Tokyo_-_102.ovpn
+155.133.7.108:1194	udp	Japan	3.06s	637_Japan_Tokyo_-_101.ovpn
+155.133.7.111:1194	udp	Japan	3.09s	632_Japan_Tokyo_-_2111.ovpn
+155.133.7.113:1194	udp	Japan	3.3s	639_Japan_Tokyo_-_103.ovpn
+155.133.7.112:1194	udp	Japan - Tokyo	2.68s	646_Japan_Tokyo_Tokyo_08.ovpn
+155.133.7.110:1194	udp	Japan - Tokyo	2.74s	644_Japan_Tokyo_Tokyo_06.ovpn
+155.133.7.106:1194	udp	Japan - Tokyo	2.74s	502_Japan_Tokyo_Tokyo_03.ovpn
+155.133.7.108:1194	udp	Japan - Tokyo	2.79s	501_Japan_Tokyo_Tokyo_02.ovpn
+155.133.7.109:1194	udp	Japan - Tokyo	2.91s	643_Japan_Tokyo_Tokyo_05.ovpn
+155.133.7.111:1194	udp	Japan - Tokyo	2.91s	645_Japan_Tokyo_Tokyo_07.ovpn
+155.133.7.107:1194	udp	Japan - Tokyo	3.06s	642_Japan_Tokyo_Tokyo_04.ovpn
+155.133.7.113:1194	udp	Japan - Tokyo	3.23s	647_Japan_Tokyo_Tokyo_09.ovpn
+155.133.7.105:1194	udp	Japan - Tokyo	5.15s	500_Japan_Tokyo_Tokyo_01.ovpn
+155.133.7.114:1194	udp	Japan - Tokyo	5.19s	86_Japan_Tokyo_Tokyo_10.ovpn
+45.80.208.108:1194	udp	Kazakhstan	2.46s	1582_Kazakhstan_Almaty_-_05.ovpn
+213.156.137.147:1194	udp	Kazakhstan	2.49s	1491_Kazakhstan_Almaty_-_02.ovpn
+45.80.208.105:1194	udp	Kazakhstan	2.51s	1585_Kazakhstan_Almaty_-_08.ovpn
+213.156.137.146:1194	udp	Kazakhstan	2.53s	1519_Kazakhstan_Almaty_-_04.ovpn
+213.156.158.188:1194	udp	Kazakhstan	2.57s	1353_Kazakhstan_Almaty_-_01.ovpn
+45.80.208.106:1194	udp	Kazakhstan	2.59s	1583_Kazakhstan_Almaty_-_06.ovpn
+45.80.208.104:1194	udp	Kazakhstan	2.63s	1584_Kazakhstan_Almaty_-_07.ovpn
+89.44.193.73:1194	udp	Kazakhstan	2.74s	1518_Kazakhstan_Almaty_-_03.ovpn
+45.80.209.41:1194	udp	LU - Luxembourg	2.24s	512_LU_Luxembourg_Luxembourg_02.ovpn
+104.244.72.242:1194	udp	LU - Luxembourg	2.48s	511_LU_Luxembourg_Luxembourg_01.ovpn
+185.135.86.228:1194	udp	Latvia	2.65s	1117_Latvia_Riga_-_2332.ovpn
+185.120.138.232:1194	udp	Latvia	2.66s	45_Latvia_Riga_-_2333.ovpn
+185.135.86.230:1194	udp	Latvia	2.67s	227_Latvia_Riga_-_2330.ovpn
+185.135.86.229:1194	udp	Latvia	2.7s	1116_Latvia_Riga_-_2331.ovpn
+185.120.138.233:1194	udp	Latvia	2.88s	1119_Latvia_Riga_-_2334.ovpn
+185.120.138.233:1194	udp	Latvia - Riga	2.67s	48_Latvia_Riga_Riga_05.ovpn
+185.135.86.230:1194	udp	Latvia - Riga	2.74s	507_Latvia_Riga_Riga_01.ovpn
+185.135.86.228:1194	udp	Latvia - Riga	2.77s	509_Latvia_Riga_Riga_03.ovpn
+185.135.86.229:1194	udp	Latvia - Riga	2.79s	508_Latvia_Riga_Riga_02.ovpn
+185.120.138.232:1194	udp	Latvia - Riga	2.81s	510_Latvia_Riga_Riga_04.ovpn
+194.233.94.245:1194	udp	Liechtenstein	4.81s	1354_Liechtenstein_Schaan_-_01.ovpn
+195.238.126.167:1194	udp	Lithuania	2.8s	1356_Lithuania__iauliai_-_01.ovpn
+45.80.210.16:1194	udp	Luxembourg	2.21s	1576_Luxembourg_Luxembourg_-_2567.ovpn
+45.80.209.42:1194	udp	Luxembourg	2.25s	46_Luxembourg_Luxembourg_-_2563.ovpn
+104.244.72.242:1194	udp	Luxembourg	2.27s	1279_Luxembourg_Luxembourg_-_01.ovpn
+45.80.210.19:1194	udp	Luxembourg	2.31s	1571_Luxembourg_Luxembourg_-_2564.ovpn
+45.80.210.18:1194	udp	Luxembourg	2.31s	1573_Luxembourg_Luxembourg_-_2566.ovpn
+45.80.209.41:1194	udp	Luxembourg	2.37s	186_Luxembourg_Luxembourg_-_2562.ovpn
+45.80.210.17:1194	udp	Luxembourg	2.55s	1572_Luxembourg_Luxembourg_-_2565.ovpn
+124.217.246.207:1194	udp	Malaysia	1.81s	1129_Malaysia_Kuala_Lumpur_-_82.ovpn
+124.217.246.199:1194	udp	Malaysia	1.81s	1130_Malaysia_Kuala_Lumpur_-_83.ovpn
+124.217.246.201:1194	udp	Malaysia	1.81s	230_Malaysia_Kuala_Lumpur_-_80.ovpn
+124.217.246.199:1194	udp	Malaysia	1.83s	1281_Malaysia_Kuala_Lumpur_-_01.ovpn
+124.217.246.202:1194	udp	Malaysia	1.85s	1128_Malaysia_Kuala_Lumpur_-_81.ovpn
+124.217.246.201:1194	udp	Malaysia	2.64s	1131_Malaysia_Kuala_Lumpur_-_84.ovpn
+124.217.246.199:1194	udp	Malaysia - Kuala Lumpur	1.73s	513_Malaysia_Kuala_Lumpur_Kuala_Lumpur_01.ovpn
+124.217.246.201:1194	udp	Malaysia - Kuala Lumpur	1.73s	514_Malaysia_Kuala_Lumpur_Kuala_Lumpur_02.ovpn
+124.217.246.207:1194	udp	Malaysia - Kuala Lumpur	1.82s	1125_Malaysia_Kuala_Lumpur_Kuala_Lumpur_04.ovpn
+124.217.246.199:1194	udp	Malaysia - Kuala Lumpur	1.85s	1126_Malaysia_Kuala_Lumpur_Kuala_Lumpur_05.ovpn
+124.217.246.202:1194	udp	Malaysia - Kuala Lumpur	2.41s	1124_Malaysia_Kuala_Lumpur_Kuala_Lumpur_03.ovpn
+124.217.246.201:1194	udp	Malaysia - Kuala Lumpur	2.56s	1127_Malaysia_Kuala_Lumpur_Kuala_Lumpur_06.ovpn
+109.123.235.64:1194	udp	Malta	10.7s	1362_Malta_Il-Madliena_-_01.ovpn
+216.238.84.227:1194	udp	Mexico	2.54s	43_Mexico_Guadalajara_-_70.ovpn
+216.238.80.105:1194	udp	Mexico	2.65s	1121_Mexico_Guadalajara_-_69.ovpn
+216.238.84.227:1194	udp	Mexico	2.68s	229_Mexico_Guadalajara_-_68.ovpn
+216.238.80.105:1194	udp	Mexico	2.69s	1123_Mexico_Guadalajara_-_71.ovpn
+216.238.80.105:1194	udp	Mexico - Guadalajara	2.6s	516_Mexico_Guadalajara_Guadalajara_02.ovpn
+216.238.80.105:1194	udp	Mexico - Guadalajara	2.63s	518_Mexico_Guadalajara_Guadalajara_04.ovpn
+216.238.84.227:1194	udp	Mexico - Guadalajara	2.72s	515_Mexico_Guadalajara_Guadalajara_01.ovpn
+216.238.84.227:1194	udp	Mexico - Guadalajara	2.73s	517_Mexico_Guadalajara_Guadalajara_03.ovpn
+89.43.111.69:1194	udp	Moldova	2.48s	1492_Moldova_Chisinau_-_22.ovpn
+89.43.111.39:1194	udp	Moldova	2.58s	44_Moldova_Chisinau_-_21.ovpn
+89.43.111.114:1194	udp	Moldova	2.81s	1493_Moldova_Chisinau_-_23.ovpn
+89.43.111.105:1194	udp	Moldova	2.81s	228_Moldova_Chisinau_-_20.ovpn
+89.43.111.105:1194	udp	Moldova - Chisinau	2.6s	106_Moldova_Chisinau_Chisinau_01.ovpn
+89.43.111.39:1194	udp	Moldova - Chisinau	2.78s	520_Moldova_Chisinau_Chisinau_02.ovpn
+194.233.90.230:1194	udp	Monaco	5.88s	1358_Monaco_Monaco_-_01.ovpn
+194.233.91.251:1194	udp	Mongolia	3.36s	1360_Mongolia_Ulan_Bator_-_01.ovpn
+194.233.91.252:1194	udp	Montenegro	3.32s	1359_Montenegro_Podgorica_-_01.ovpn
+109.123.233.137:1194	udp	Morocco	3.38s	1357_Morocco_Rabat_-_01.ovpn
+207.174.30.45:1194	udp	Netherland	2.22s	1139_Netherland_Amsterdam_-_2823.ovpn
+207.174.30.239:1194	udp	Netherland	2.35s	1136_Netherland_Amsterdam_-_2820.ovpn
+5.181.76.201:1194	udp	Netherland	2.39s	1138_Netherland_Amsterdam_-_2822.ovpn
+91.149.241.134:1194	udp	Netherland	2.4s	1142_Netherland_Amsterdam_-_2826.ovpn
+194.58.68.195:1194	udp	Netherland	2.45s	1137_Netherland_Amsterdam_-_2821.ovpn
+207.174.30.137:1194	udp	Netherland	2.46s	42_Netherland_Amsterdam_-_2825.ovpn
+5.181.76.65:1194	udp	Netherland	2.54s	170_Netherland_Amsterdam_-_2819.ovpn
+207.174.30.144:1194	udp	Netherland	2.59s	1140_Netherland_Amsterdam_-_2824.ovpn
+5.181.76.201:1194	udp	Netherland - Amsterdam	2.13s	1146_Netherland_Amsterdam_Amsterdam_07.ovpn
+91.149.241.134:1194	udp	Netherland - Amsterdam	2.23s	1147_Netherland_Amsterdam_Amsterdam_08.ovpn
+207.174.30.137:1194	udp	Netherland - Amsterdam	2.32s	521_Netherland_Amsterdam_Amsterdam_01.ovpn
+5.181.76.65:1194	udp	Netherland - Amsterdam	2.32s	41_Netherland_Amsterdam_Amsterdam_06.ovpn
+194.58.68.195:1194	udp	Netherland - Amsterdam	2.37s	105_Netherland_Amsterdam_Amsterdam_04.ovpn
+207.174.30.239:1194	udp	Netherland - Amsterdam	2.47s	525_Netherland_Amsterdam_Amsterdam_05.ovpn
+207.174.30.45:1194	udp	Netherland - Amsterdam	2.5s	523_Netherland_Amsterdam_Amsterdam_03.ovpn
+207.174.30.144:1194	udp	Netherland - Amsterdam	2.59s	522_Netherland_Amsterdam_Amsterdam_02.ovpn
+194.233.91.252:1194	udp	Nigeria	3.1s	1132_Nigeria_Lagos_-_101.ovpn
+194.233.91.251:1194	udp	Nigeria	3.29s	1133_Nigeria_Lagos_-_102.ovpn
+109.123.233.137:1194	udp	Nigeria	3.37s	1135_Nigeria_Lagos_-_104.ovpn
+109.123.235.64:1194	udp	Nigeria	3.45s	1134_Nigeria_Lagos_-_103.ovpn
+194.233.90.230:1194	udp	Nigeria	11.92s	231_Nigeria_Lagos_-_100.ovpn
+194.233.91.252:1194	udp	Nigeria - Lagos	3.19s	532_Nigeria_Lagos_Lagos_02.ovpn
+194.233.90.230:1194	udp	Nigeria - Lagos	3.3s	531_Nigeria_Lagos_Lagos_01.ovpn
+109.123.233.137:1194	udp	Nigeria - Lagos	3.32s	535_Nigeria_Lagos_Lagos_05.ovpn
+109.123.235.64:1194	udp	Nigeria - Lagos	3.34s	534_Nigeria_Lagos_Lagos_04.ovpn
+194.233.91.251:1194	udp	Nigeria - Lagos	5.78s	533_Nigeria_Lagos_Lagos_03.ovpn
+195.144.24.56:1194	udp	North Macedonia	1.05s	661_North_Macedonia_Skopje_-_01.ovpn
+217.170.194.204:1194	udp	Norway	2.35s	1152_Norway_Oslo_-_1440.ovpn
+217.170.194.207:1194	udp	Norway	2.37s	39_Norway_Oslo_-_1443.ovpn
+217.170.194.206:1194	udp	Norway	2.37s	1154_Norway_Oslo_-_1442.ovpn
+217.170.194.205:1194	udp	Norway	2.4s	1153_Norway_Oslo_-_1441.ovpn
+217.170.194.38:1194	udp	Norway	2.43s	187_Norway_Oslo_-_1439.ovpn
+217.170.194.204:1194	udp	Norway - Oslo	2.31s	537_Norway_Oslo_Oslo_02.ovpn
+217.170.194.38:1194	udp	Norway - Oslo	2.33s	536_Norway_Oslo_Oslo_01.ovpn
+217.170.194.207:1194	udp	Norway - Oslo	2.35s	540_Norway_Oslo_Oslo_05.ovpn
+217.170.194.205:1194	udp	Norway - Oslo	2.36s	538_Norway_Oslo_Oslo_03.ovpn
+217.170.194.206:1194	udp	Norway - Oslo	2.45s	104_Norway_Oslo_Oslo_04.ovpn
+154.26.139.143:1194	udp	Panama	3.51s	1363_Panama_Panama_City_-_02.ovpn
+161.132.42.182:1194	udp	Peru	2.82s	1161_Peru_Lima_-_61.ovpn
+161.132.42.180:1194	udp	Peru	2.83s	1164_Peru_Lima_-_64.ovpn
+161.132.42.179:1194	udp	Peru	2.93s	233_Peru_Lima_-_60.ovpn
+161.132.42.183:1194	udp	Peru	2.94s	38_Peru_Lima_-_63.ovpn
+161.132.42.181:1194	udp	Peru	3.01s	1162_Peru_Lima_-_62.ovpn
+161.132.42.180:1194	udp	Peru - Lima	2.82s	1160_Peru_Lima_Lima_05.ovpn
+161.132.42.182:1194	udp	Peru - Lima	2.89s	103_Peru_Lima_Lima_02.ovpn
+161.132.42.183:1194	udp	Peru - Lima	3.0s	1159_Peru_Lima_Lima_04.ovpn
+161.132.42.179:1194	udp	Peru - Lima	3.1s	541_Peru_Lima_Lima_01.ovpn
+161.132.42.181:1194	udp	Peru - Lima	3.11s	1158_Peru_Lima_Lima_03.ovpn
+194.233.90.230:1194	udp	Philippines	4.97s	624_Philippines_Manila_01.ovpn
+194.233.90.230:1194	udp	Philippines	6.07s	1364_Philippines_Manila_03.ovpn
+194.233.90.230:1194	udp	Philippines - Manila	3.44s	625_Philippines_Manila_Manila_02.ovpn
+89.223.91.188:1194	udp	Poland	2.4s	1168_Poland_Warsaw_-_193.ovpn
+89.43.105.28:1194	udp	Poland	2.46s	1166_Poland_Warsaw_-_191.ovpn
+5.189.221.155:1194	udp	Poland	2.57s	37_Poland_Warsaw_-_192.ovpn
+5.189.221.244:1194	udp	Poland	2.6s	188_Poland_Warsaw_-_189.ovpn
+5.189.221.207:1194	udp	Poland	2.77s	1165_Poland_Warsaw_-_190.ovpn
+5.189.221.244:1194	udp	Poland - Warsaw	2.38s	543_Poland_Warsaw_Warsaw_01.ovpn
+5.189.221.207:1194	udp	Poland - Warsaw	2.38s	544_Poland_Warsaw_Warsaw_02.ovpn
+89.43.105.28:1194	udp	Poland - Warsaw	2.55s	545_Poland_Warsaw_Warsaw_03.ovpn
+89.223.91.188:1194	udp	Poland - Warsaw	2.63s	102_Poland_Warsaw_Warsaw_05.ovpn
+5.189.221.155:1194	udp	Poland - Warsaw	2.78s	546_Poland_Warsaw_Warsaw_04.ovpn
+185.113.140.121:1194	udp	Portugal	2.57s	1170_Portugal_Lisbon_-_03.ovpn
+185.113.141.143:1194	udp	Portugal	2.59s	36_Portugal_Lisbon_-_04.ovpn
+185.113.141.165:1194	udp	Portugal	2.63s	1169_Portugal_Lisbon_-_02.ovpn
+185.236.231.53:1194	udp	Portugal	2.68s	1172_Portugal_Lisbon_-_05.ovpn
+185.236.231.158:1194	udp	Portugal	2.95s	234_Portugal_Lisbon_-_06.ovpn
+185.113.140.121:1194	udp	Portugal - Lisbon	2.47s	549_Portugal_Lisbon_Lisbon_02.ovpn
+185.113.141.143:1194	udp	Portugal - Lisbon	2.51s	550_Portugal_Lisbon_Lisbon_03.ovpn
+185.236.231.53:1194	udp	Portugal - Lisbon	2.54s	551_Portugal_Lisbon_Lisbon_04.ovpn
+185.113.141.165:1194	udp	Portugal - Lisbon	2.58s	101_Portugal_Lisbon_Lisbon_01.ovpn
+185.236.231.158:1194	udp	Portugal - Lisbon	2.67s	552_Portugal_Lisbon_Lisbon_05.ovpn
+156.244.3.136:1194	udp	Qatar	2.32s	1365_Qatar_Doha_-_01.ovpn
+213.156.142.151:1194	udp	Romania	2.59s	1494_Romania_Bucharest_-_23.ovpn
+213.156.142.244:1194	udp	Romania	2.7s	235_Romania_Bucharest_-_20.ovpn
+5.181.25.38:1194	udp	Romania	2.76s	1495_Romania_Bucharest_-_24.ovpn
+213.156.142.189:1194	udp	Romania	2.8s	1174_Romania_Bucharest_-_22.ovpn
+213.156.142.191:1194	udp	Romania	2.81s	35_Romania_Bucharest_-_21.ovpn
+213.156.142.191:1194	udp	Romania - Bucharest	2.6s	99_Romania_Bucharest_Bucharest_02.ovpn
+213.156.142.189:1194	udp	Romania - Bucharest	2.79s	555_Romania_Bucharest_Bucharest_03.ovpn
+213.156.142.244:1194	udp	Romania - Bucharest	3.05s	553_Romania_Bucharest_Bucharest_01.ovpn
+135.136.44.43:1194	udp	Russia,Moscow1	2.21s	1548_Russia_Moscow1_Moscow_84.ovpn
+135.136.44.35:1194	udp	Russia,Moscow1	2.25s	1543_Russia_Moscow1_Moscow_79.ovpn
+135.136.44.59:1194	udp	Russia,Moscow1	2.25s	1501_Russia_Moscow1_Moscow_39.ovpn
+135.136.44.36:1194	udp	Russia,Moscow1	2.28s	1544_Russia_Moscow1_Moscow_80.ovpn
+135.136.44.26:1194	udp	Russia,Moscow1	2.32s	1_Russia_Moscow1_Moscow_01.ovpn
+135.136.44.28:1194	udp	Russia,Moscow1	2.34s	1388_Russia_Moscow1_Krasnodar_03.ovpn
+135.136.44.61:1194	udp	Russia,Moscow1	2.34s	1499_Russia_Moscow1_Moscow_37.ovpn
+135.136.44.36:1194	udp	Russia,Moscow1	2.34s	1442_Russia_Moscow1_Krasnodar_04.ovpn
+135.136.44.58:1194	udp	Russia,Moscow1	2.35s	1453_Russia_Moscow1_Moscow_20.ovpn
+135.136.44.52:1194	udp	Russia,Moscow1	2.35s	1505_Russia_Moscow1_Moscow_43.ovpn
+135.136.44.36:1194	udp	Russia,Moscow1	2.36s	1561_Russia_Moscow1_Moscow_86.ovpn
+135.136.44.30:1194	udp	Russia,Moscow1	2.4s	1386_Russia_Moscow1_Krasnodar_01.ovpn
+135.136.44.59:1194	udp	Russia,Moscow1	2.4s	1452_Russia_Moscow1_Moscow_19.ovpn
+135.136.44.50:1194	udp	Russia,Moscow1	2.41s	1508_Russia_Moscow1_Moscow_46.ovpn
+135.136.44.53:1194	udp	Russia,Moscow1	2.41s	1413_Russia_Moscow1_Krasnodar_02.ovpn
+135.136.44.34:1194	udp	Russia,Moscow1	2.42s	1542_Russia_Moscow1_Moscow_78.ovpn
+135.136.44.50:1194	udp	Russia,Moscow1	2.42s	1545_Russia_Moscow1_Moscow_81.ovpn
+135.136.44.58:1194	udp	Russia,Moscow1	2.42s	1415_Russia_Moscow1_Russia_-_28.ovpn
+135.136.44.54:1194	udp	Russia,Moscow1	2.44s	1507_Russia_Moscow1_Moscow_45.ovpn
+135.136.44.51:1194	udp	Russia,Moscow1	2.46s	1546_Russia_Moscow1_Moscow_82.ovpn
+135.136.44.60:1194	udp	Russia,Moscow1	2.46s	1500_Russia_Moscow1_Moscow_38.ovpn
+135.136.44.53:1194	udp	Russia,Moscow1	2.46s	1504_Russia_Moscow1_Moscow_42.ovpn
+135.136.44.51:1194	udp	Russia,Moscow1	2.46s	1506_Russia_Moscow1_Moscow_44.ovpn
+135.136.44.42:1194	udp	Russia,Moscow1	2.49s	1547_Russia_Moscow1_Moscow_83.ovpn
+135.136.44.29:1194	udp	Russia,Moscow1	2.49s	1387_Russia_Moscow1_Krasnodar_02.ovpn
+135.136.44.60:1194	udp	Russia,Moscow1	2.51s	1441_Russia_Moscow1_Krasnodar_04.ovpn
+135.136.44.54:1194	udp	Russia,Moscow1	2.57s	1503_Russia_Moscow1_Moscow_41.ovpn
+135.136.44.58:1194	udp	Russia,Moscow1	2.58s	1502_Russia_Moscow1_Moscow_40.ovpn
+45.140.169.56:1194	udp	Russia,Moscow1	2.58s	1425_Russia_Moscow1_Krasnodar_03.ovpn
+45.140.168.199:1194	udp	Russia,Moscow1	2.59s	1552_Russia_Moscow1_Moscow_89.ovpn
+135.136.44.46:1194	udp	Russia,Moscow1	2.6s	1541_Russia_Moscow1_Moscow_77.ovpn
+135.136.44.42:1194	udp	Russia,Moscow1	2.6s	2_Russia_Moscow1_Moscow_02.ovpn
+185.22.154.104:1194	udp	Russia,Moscow1	2.72s	1389_Russia_Moscow1_Krasnodar_01.ovpn
+135.136.44.35:1194	udp	Russia,Moscow10	2.48s	1486_Russia_Moscow10_Moscow_33.ovpn
+135.136.44.34:1194	udp	Russia,Moscow10	2.51s	1487_Russia_Moscow10_Moscow_34.ovpn
+135.136.44.42:1194	udp	Russia,Moscow10	2.58s	12_Russia_Moscow10_Moscow_09.ovpn
+135.136.44.53:1194	udp	Russia,Moscow11	2.24s	1488_Russia_Moscow11_Moscow_35.ovpn
+135.136.44.54:1194	udp	Russia,Moscow11	2.47s	1489_Russia_Moscow11_Moscow_36.ovpn
+135.136.44.44:1194	udp	Russia,Moscow11	2.5s	13_Russia_Moscow11_Moscow_11.ovpn
+135.136.44.30:1194	udp	Russia,Moscow12	2.39s	14_Russia_Moscow12_Moscow_12.ovpn
+135.136.44.35:1194	udp	Russia,Moscow2	2.23s	1559_Russia_Moscow2_Moscow_97.ovpn
+135.136.44.59:1194	udp	Russia,Moscow2	2.25s	1416_Russia_Moscow2_Russia_-_29.ovpn
+135.136.44.54:1194	udp	Russia,Moscow2	2.27s	1414_Russia_Moscow2_Krasnoyarsk_02.ovpn
+135.136.44.42:1194	udp	Russia,Moscow2	2.29s	1514_Russia_Moscow2_Moscow_52.ovpn
+135.136.44.26:1194	udp	Russia,Moscow2	2.32s	1517_Russia_Moscow2_Moscow_55.ovpn
+135.136.44.34:1194	udp	Russia,Moscow2	2.36s	1558_Russia_Moscow2_Moscow_96.ovpn
+135.136.44.43:1194	udp	Russia,Moscow2	2.36s	3_Russia_Moscow2_Moscow_03.ovpn
+135.136.44.45:1194	udp	Russia,Moscow2	2.39s	1515_Russia_Moscow2_Moscow_53.ovpn
+135.136.44.62:1194	udp	Russia,Moscow2	2.4s	1454_Russia_Moscow2_Moscow_21.ovpn
+135.136.44.36:1194	udp	Russia,Moscow2	2.41s	1511_Russia_Moscow2_Moscow_49.ovpn
+135.136.44.43:1194	udp	Russia,Moscow2	2.43s	1516_Russia_Moscow2_Moscow_54.ovpn
+135.136.44.58:1194	udp	Russia,Moscow2	2.44s	1477_Russia_Moscow2_Krasnoyarsk_06.ovpn
+135.136.44.59:1194	udp	Russia,Moscow2	2.45s	1443_Russia_Moscow2_Krasnoyarsk_04.ovpn
+135.136.44.35:1194	udp	Russia,Moscow2	2.45s	1512_Russia_Moscow2_Moscow_50.ovpn
+135.136.44.34:1194	udp	Russia,Moscow2	2.46s	1513_Russia_Moscow2_Moscow_51.ovpn
+135.136.44.61:1194	udp	Russia,Moscow2	2.48s	1455_Russia_Moscow2_Moscow_22.ovpn
+135.136.44.44:1194	udp	Russia,Moscow2	2.5s	1444_Russia_Moscow2_Krasnoyarsk_04.ovpn
+135.136.44.29:1194	udp	Russia,Moscow2	2.54s	1390_Russia_Moscow2_Krasnoyarsk_01.ovpn
+135.136.44.38:1194	udp	Russia,Moscow2	2.55s	1509_Russia_Moscow2_Moscow_47.ovpn
+135.136.44.27:1194	udp	Russia,Moscow2	2.57s	1392_Russia_Moscow2_Krasnoyarsk_03.ovpn
+135.136.44.28:1194	udp	Russia,Moscow2	2.59s	1391_Russia_Moscow2_Krasnoyarsk_02.ovpn
+45.140.169.137:1194	udp	Russia,Moscow2	2.69s	1422_Russia_Moscow2_Krasnoyarsk_03.ovpn
+45.140.169.92:1194	udp	Russia,Moscow2	2.75s	1393_Russia_Moscow2_Krasnoyarsk_01.ovpn
+135.136.44.37:1194	udp	Russia,Moscow2	6.84s	1510_Russia_Moscow2_Moscow_48.ovpn
+135.136.44.43:1194	udp	Russia,Moscow3	2.24s	1523_Russia_Moscow3_Moscow_59.ovpn
+135.136.44.36:1194	udp	Russia,Moscow3	2.26s	5_Russia_Moscow3_Moscow_04.ovpn
+135.136.44.27:1194	udp	Russia,Moscow3	2.31s	1524_Russia_Moscow3_Moscow_60.ovpn
+45.129.2.33:1194	udp	Russia,Moscow3	2.32s	1472_Russia_Moscow3_Novosibirsk_05.ovpn
+135.136.44.26:1194	udp	Russia,Moscow3	2.32s	1527_Russia_Moscow3_Moscow_63.ovpn
+135.136.44.45:1194	udp	Russia,Moscow3	2.38s	1520_Russia_Moscow3_Moscow_56.ovpn
+135.136.44.42:1194	udp	Russia,Moscow3	2.38s	1522_Russia_Moscow3_Moscow_58.ovpn
+135.136.44.58:1194	udp	Russia,Moscow3	2.42s	1457_Russia_Moscow3_Moscow_24.ovpn
+135.136.44.44:1194	udp	Russia,Moscow3	2.42s	1525_Russia_Moscow3_Moscow_61.ovpn
+135.136.44.46:1194	udp	Russia,Moscow3	2.43s	1526_Russia_Moscow3_Moscow_62.ovpn
+135.136.44.51:1194	udp	Russia,Moscow3	2.45s	1411_Russia_Moscow3_Novosibirsk_02.ovpn
+135.136.44.46:1194	udp	Russia,Moscow3	2.46s	1394_Russia_Moscow3_Novosibirsk_01.ovpn
+135.136.44.61:1194	udp	Russia,Moscow3	2.47s	1439_Russia_Moscow3_Novosibirsk_04.ovpn
+135.136.44.28:1194	udp	Russia,Moscow3	2.49s	1529_Russia_Moscow3_Moscow_65.ovpn
+45.140.168.49:1194	udp	Russia,Moscow3	2.5s	15_Russia_Moscow3_Moscow_-_20.ovpn
+135.136.44.44:1194	udp	Russia,Moscow3	2.53s	1396_Russia_Moscow3_Novosibirsk_03.ovpn
+135.136.44.27:1194	udp	Russia,Moscow3	2.55s	1528_Russia_Moscow3_Moscow_64.ovpn
+45.129.2.24:1194	udp	Russia,Moscow3	2.55s	1397_Russia_Moscow3_Novosibirsk_01.ovpn
+135.136.44.45:1194	udp	Russia,Moscow3	2.56s	1395_Russia_Moscow3_Novosibirsk_02.ovpn
+45.129.2.79:1194	udp	Russia,Moscow3	2.56s	1473_Russia_Moscow3_Novosibirsk_06.ovpn
+45.140.169.92:1194	udp	Russia,Moscow3	2.57s	1563_Russia_Moscow3_Moscow_100.ovpn
+135.136.44.43:1194	udp	Russia,Moscow3	2.6s	1521_Russia_Moscow3_Moscow_57.ovpn
+45.140.168.49:1194	udp	Russia,Moscow3	2.67s	1564_Russia_Moscow3_Moscow_101.ovpn
+45.129.2.24:1194	udp	Russia,Moscow3	2.68s	1565_Russia_Moscow3_Moscow_102.ovpn
+45.140.168.59:1194	udp	Russia,Moscow3	2.69s	1423_Russia_Moscow3_Novosibirsk_03.ovpn
+45.140.168.45:1194	udp	Russia,Moscow3	2.72s	1456_Russia_Moscow3_Moscow_23.ovpn
+135.136.44.46:1194	udp	Russia,Moscow4	2.24s	1436_Russia_Moscow4_Samara_04.ovpn
+135.136.44.50:1194	udp	Russia,Moscow4	2.25s	1538_Russia_Moscow4_Moscow_74.ovpn
+135.136.44.30:1194	udp	Russia,Moscow4	2.25s	1398_Russia_Moscow4_Samara_01.ovpn
+135.136.44.29:1194	udp	Russia,Moscow4	2.29s	1399_Russia_Moscow4_Samara_02.ovpn
+135.136.44.35:1194	udp	Russia,Moscow4	2.3s	1440_Russia_Moscow4_Novosibirsk_04.ovpn
+135.136.44.30:1194	udp	Russia,Moscow4	2.32s	1531_Russia_Moscow4_Moscow_67.ovpn
+135.136.44.37:1194	udp	Russia,Moscow4	2.37s	1536_Russia_Moscow4_Moscow_72.ovpn
+45.140.168.45:1194	udp	Russia,Moscow4	2.37s	1424_Russia_Moscow4_Samara_03.ovpn
+135.136.44.51:1194	udp	Russia,Moscow4	2.43s	1535_Russia_Moscow4_Moscow_71.ovpn
+135.136.44.38:1194	udp	Russia,Moscow4	2.44s	1537_Russia_Moscow4_Moscow_73.ovpn
+135.136.44.44:1194	udp	Russia,Moscow4	2.44s	1539_Russia_Moscow4_Moscow_75.ovpn
+45.140.169.56:1194	udp	Russia,Moscow4	2.44s	1458_Russia_Moscow4_Moscow_25.ovpn
+135.136.44.29:1194	udp	Russia,Moscow4	2.44s	1530_Russia_Moscow4_Moscow_66.ovpn
+135.136.44.42:1194	udp	Russia,Moscow4	2.45s	1532_Russia_Moscow4_Moscow_68.ovpn
+135.136.44.52:1194	udp	Russia,Moscow4	2.45s	1412_Russia_Moscow4_Samara_02.ovpn
+135.136.44.37:1194	udp	Russia,Moscow4	2.46s	1533_Russia_Moscow4_Moscow_69.ovpn
+135.136.44.50:1194	udp	Russia,Moscow4	2.46s	1534_Russia_Moscow4_Moscow_70.ovpn
+135.136.44.38:1194	udp	Russia,Moscow4	2.5s	6_Russia_Moscow4_Moscow_05.ovpn
+135.136.44.53:1194	udp	Russia,Moscow4	2.5s	1478_Russia_Moscow4_Samara_05.ovpn
+135.136.44.62:1194	udp	Russia,Moscow4	2.51s	1479_Russia_Moscow4_Samara_06.ovpn
+45.129.2.79:1194	udp	Russia,Moscow4	2.52s	16_Russia_Moscow4_Moscow_-_21.ovpn
+135.136.44.28:1194	udp	Russia,Moscow4	2.54s	1400_Russia_Moscow4_Samara_03.ovpn
+135.136.44.45:1194	udp	Russia,Moscow4	2.55s	1540_Russia_Moscow4_Moscow_76.ovpn
+45.140.169.137:1194	udp	Russia,Moscow4	2.69s	1435_Russia_Moscow4_Samara_04.ovpn
+135.136.44.60:1194	udp	Russia,Moscow5	2.25s	1419_Russia_Moscow5_Moscow_-_23.ovpn
+135.136.44.52:1194	udp	Russia,Moscow5	2.28s	1426_Russia_Moscow5_St_Petersburg_01.ovpn
+135.136.44.50:1194	udp	Russia,Moscow5	2.32s	1482_Russia_Moscow5_St_Petersburg_05.ovpn
+135.136.44.38:1194	udp	Russia,Moscow5	2.33s	1483_Russia_Moscow5_St_Petersburg_06.ovpn
+135.136.44.37:1194	udp	Russia,Moscow5	2.36s	1431_Russia_Moscow5_St_Petersburg_03.ovpn
+45.140.168.59:1194	udp	Russia,Moscow5	2.38s	1433_Russia_Moscow5_St_Petersburg_04.ovpn
+185.22.154.104:1194	udp	Russia,Moscow5	2.39s	1428_Russia_Moscow5_St_Petersburg_02.ovpn
+135.136.44.59:1194	udp	Russia,Moscow5	2.44s	1430_Russia_Moscow5_St_Petersburg_03.ovpn
+135.136.44.51:1194	udp	Russia,Moscow5	2.45s	1417_Russia_Moscow5_Moscow_13.ovpn
+135.136.44.45:1194	udp	Russia,Moscow5	2.47s	1434_Russia_Moscow5_St_Petersburg_04.ovpn
+135.136.44.35:1194	udp	Russia,Moscow5	2.49s	7_Russia_Moscow5_Moscow_06.ovpn
+45.129.2.33:1194	udp	Russia,Moscow5	2.6s	17_Russia_Moscow5_Moscow_-_22.ovpn
+45.140.168.29:1194	udp	Russia,Moscow5	2.81s	1461_Russia_Moscow5_Moscow_28.ovpn
+135.136.44.26:1194	udp	Russia,Moscow6	2.36s	1407_Russia_Moscow6_Yekaterinburg_02.ovpn
+135.136.44.51:1194	udp	Russia,Moscow6	2.36s	1481_Russia_Moscow6_Yekaterinburg_06.ovpn
+176.32.35.25:1194	udp	Russia,Moscow6	2.38s	1463_Russia_Moscow6_Moscow_30.ovpn
+135.136.44.38:1194	udp	Russia,Moscow6	2.38s	1409_Russia_Moscow6_Yekaterinburg_01.ovpn
+135.136.44.62:1194	udp	Russia,Moscow6	2.4s	1437_Russia_Moscow6_Yekaterinburg_04.ovpn
+135.136.44.46:1194	udp	Russia,Moscow6	2.43s	1408_Russia_Moscow6_Yekaterinburg_03.ovpn
+135.136.44.62:1194	udp	Russia,Moscow6	2.43s	1421_Russia_Moscow6_Yekaterinburg_03.ovpn
+135.136.44.27:1194	udp	Russia,Moscow6	2.46s	1406_Russia_Moscow6_Yekaterinburg_01.ovpn
+135.136.44.50:1194	udp	Russia,Moscow6	2.48s	1410_Russia_Moscow6_Yekaterinburg_02.ovpn
+135.136.44.34:1194	udp	Russia,Moscow6	2.5s	8_Russia_Moscow6_Moscow_07.ovpn
+135.136.44.52:1194	udp	Russia,Moscow6	2.5s	1480_Russia_Moscow6_Yekaterinburg_05.ovpn
+135.136.44.34:1194	udp	Russia,Moscow6	2.55s	1438_Russia_Moscow6_Yekaterinburg_04.ovpn
+46.17.45.29:1194	udp	Russia,Moscow6	2.58s	1462_Russia_Moscow6_Moscow_29.ovpn
+135.136.44.43:1194	udp	Russia,Moscow7	2.23s	1418_Russia_Moscow7_Moscow_14.ovpn
+135.136.44.60:1194	udp	Russia,Moscow7	2.39s	1449_Russia_Moscow7_Moscow_16.ovpn
+176.32.35.25:1194	udp	Russia,Moscow7	2.39s	19_Russia_Moscow7_Moscow_-_24.ovpn
+135.136.44.62:1194	udp	Russia,Moscow7	2.45s	1448_Russia_Moscow7_Moscow_15.ovpn
+135.136.44.61:1194	udp	Russia,Moscow7	2.49s	1420_Russia_Moscow7_Moscow_-_25.ovpn
+135.136.44.54:1194	udp	Russia,Moscow7	2.58s	9_Russia_Moscow7_Moscow_08.ovpn
+135.136.44.60:1194	udp	Russia,Moscow8	2.35s	1451_Russia_Moscow8_Moscow_18.ovpn
+135.136.44.53:1194	udp	Russia,Moscow8	2.4s	10_Russia_Moscow8_Moscow_10.ovpn
+135.136.44.61:1194	udp	Russia,Moscow8	2.46s	1450_Russia_Moscow8_Moscow_17.ovpn
+46.17.45.29:1194	udp	Russia,Moscow8	2.46s	20_Russia_Moscow8_Moscow_-_25.ovpn
+135.136.44.52:1194	udp	Russia,Moscow9	2.25s	11_Russia_Moscow9_Moscow_09.ovpn
+135.136.44.36:1194	udp	Russia,Moscow9	2.35s	1485_Russia_Moscow9_Moscow_32.ovpn
+45.140.168.29:1194	udp	Russia,Moscow9	2.35s	21_Russia_Moscow9_Moscow_-_26.ovpn
+135.136.44.37:1194	udp	Russia,Moscow9	2.59s	1484_Russia_Moscow9_Moscow_31.ovpn
+109.123.235.64:1194	udp	SG - Singapore	3.26s	559_SG_Singapore_Singapore_01.ovpn
+194.233.91.252:1194	udp	SG - Singapore	3.36s	561_SG_Singapore_Singapore_03.ovpn
+194.233.91.251:1194	udp	SG - Singapore	3.39s	560_SG_Singapore_Singapore_02.ovpn
+154.26.139.143:1194	udp	SG - Singapore	4.62s	563_SG_Singapore_Singapore_05.ovpn
+194.233.90.230:1194	udp	SG - Singapore	5.63s	562_SG_Singapore_Singapore_04.ovpn
+156.244.8.96:1194	udp	Saudi Arabia	2.55s	1586_Saudi_Arabia_Riyadh_-_02.ovpn
+156.244.8.82:1194	udp	Saudi Arabia	4.99s	1367_Saudi_Arabia_Riyadh_-_01.ovpn
+185.48.250.66:1194	udp	Serbia	2.66s	34_Serbia_Belgrade_-_02.ovpn
+185.48.250.70:1194	udp	Serbia	2.71s	1496_Serbia_Belgrade_-_04.ovpn
+185.48.250.72:1194	udp	Serbia	2.74s	1497_Serbia_Belgrade_-_05.ovpn
+185.48.250.126:1194	udp	Serbia	2.74s	236_Serbia_Belgrade_-_01.ovpn
+185.48.250.67:1194	udp	Serbia	3.89s	1176_Serbia_Belgrade_-_03.ovpn
+185.48.250.66:1194	udp	Serbia - Belgrade	2.75s	100_Serbia_Belgrade_Belgrade_02.ovpn
+185.48.250.126:1194	udp	Serbia - Belgrade	2.76s	556_Serbia_Belgrade_Belgrade_01.ovpn
+185.48.250.67:1194	udp	Serbia - Belgrade	3.88s	558_Serbia_Belgrade_Belgrade_03.ovpn
+154.26.139.143:1194	udp	Singapore	3.2s	657_Singapore_Singapore_-_101.ovpn
+109.123.236.43:1194	udp	Singapore	3.25s	659_Singapore_Singapore_-_103.ovpn
+194.233.91.252:1194	udp	Singapore	3.35s	174_Singapore_Singapore_-_838.ovpn
+109.123.233.137:1194	udp	Singapore	3.38s	658_Singapore_Singapore_-_102.ovpn
+194.233.94.245:1194	udp	Singapore	5.51s	660_Singapore_Singapore_-_104.ovpn
+194.233.90.230:1194	udp	Singapore	8.6s	173_Singapore_Singapore_-_519.ovpn
+109.123.235.64:1194	udp	Singapore	10.1s	656_Singapore_Singapore_-_100.ovpn
+185.48.249.120:1194	udp	Slovakia	2.4s	31_Slovakia_Bratislava_-_03.ovpn
+185.48.249.122:1194	udp	Slovakia	2.46s	1190_Slovakia_Bratislava_-_05.ovpn
+185.48.248.184:1194	udp	Slovakia	2.58s	1187_Slovakia_Bratislava_-_02.ovpn
+185.48.249.117:1194	udp	Slovakia	2.7s	1189_Slovakia_Bratislava_-_04.ovpn
+185.48.248.134:1194	udp	Slovakia	5.15s	239_Slovakia_Bratislava_-_06.ovpn
+185.48.248.134:1194	udp	Slovakia - Bratislava	2.52s	32_Slovakia_Bratislava_Bratislava_05.ovpn
+185.48.249.120:1194	udp	Slovakia - Bratislava	2.59s	98_Slovakia_Bratislava_Bratislava_02.ovpn
+185.48.248.184:1194	udp	Slovakia - Bratislava	2.62s	564_Slovakia_Bratislava_Bratislava_01.ovpn
+185.48.249.122:1194	udp	Slovakia - Bratislava	2.68s	567_Slovakia_Bratislava_Bratislava_04.ovpn
+185.48.249.117:1194	udp	Slovakia - Bratislava	8.09s	566_Slovakia_Bratislava_Bratislava_03.ovpn
+130.195.245.141:1194	udp	Slovenia	10.66s	1184_Slovenia_Ljubljana_-_05.ovpn
+130.195.245.138:1194	udp	Slovenia - Ljubljana	18.69s	568_Slovenia_Ljubljana_Ljubljana_01.ovpn
+102.130.122.128:1194	udp	South Africa	3.23s	975_South_Africa_Johannesburg_-_11.ovpn
+102.130.122.135:1194	udp	South Africa	3.23s	978_South_Africa_Johannesburg_-_14.ovpn
+102.130.122.131:1194	udp	South Africa	3.26s	976_South_Africa_Johannesburg_-_12.ovpn
+102.130.122.132:1194	udp	South Africa	3.26s	977_South_Africa_Johannesburg_-_13.ovpn
+160.119.248.102:1194	udp	South Africa	3.34s	245_South_Africa_Johannesburg_-_10.ovpn
+102.130.122.131:1194	udp	South Africa - Johannesburg	3.24s	90_South_Africa_Johannesburg_Johannesburg_03.ovpn
+102.130.122.128:1194	udp	South Africa - Johannesburg	3.36s	600_South_Africa_Johannesburg_Johannesburg_02.ovpn
+160.119.248.102:1194	udp	South Africa - Johannesburg	3.37s	599_South_Africa_Johannesburg_Johannesburg_01.ovpn
+102.130.122.135:1194	udp	South Africa - Johannesburg	3.39s	603_South_Africa_Johannesburg_Johannesburg_05.ovpn
+102.130.122.132:1194	udp	South Africa - Johannesburg	3.42s	602_South_Africa_Johannesburg_Johannesburg_04.ovpn
+5.189.222.7:1194	udp	Spain	2.2s	82_Spain_Madrid_-_104.ovpn
+5.188.181.234:1194	udp	Spain	2.34s	679_Spain_Madrid_-_100.ovpn
+5.189.222.5:1194	udp	Spain	2.39s	218_Spain_Valencia_-_1080.ovpn
+5.188.183.24:1194	udp	Spain	2.46s	681_Spain_Madrid_-_102.ovpn
+92.38.171.231:1194	udp	Spain	2.47s	682_Spain_Madrid_-_103.ovpn
+5.189.222.29:1194	udp	Spain	2.56s	185_Spain_Madrid_-_2960.ovpn
+5.189.222.43:1194	udp	Spain	2.6s	680_Spain_Madrid_-_101.ovpn
+5.189.222.29:1194	udp	Spain - Madrid	2.28s	575_Spain_Madrid_Madrid_03.ovpn
+5.189.222.5:1194	udp	Spain - Madrid	2.3s	573_Spain_Madrid_Madrid_01.ovpn
+5.189.222.5:1194	udp	Spain - Madrid	2.36s	574_Spain_Madrid_Madrid_02.ovpn
+5.188.181.234:1194	udp	Spain - Madrid	2.53s	576_Spain_Madrid_Madrid_04.ovpn
+5.188.183.24:1194	udp	Spain - Madrid	2.57s	96_Spain_Madrid_Madrid_05.ovpn
+5.189.222.43:1194	udp	Spain - Valencia	2.36s	95_Spain_Valencia_Valencia_03.ovpn
+5.189.222.29:1194	udp	Spain - Valencia	2.38s	581_Spain_Valencia_Valencia_04.ovpn
+92.38.171.231:1194	udp	Spain - Valencia	2.4s	578_Spain_Valencia_Valencia_01.ovpn
+5.189.222.7:1194	udp	Spain - Valencia	2.44s	579_Spain_Valencia_Valencia_02.ovpn
+109.123.236.43:1194	udp	Sri Lanka	3.26s	1355_Sri_Lanka_Colombo_-_01.ovpn
+80.239.189.73:1194	udp	Sweden	2.47s	1179_Sweden_Stockholm_-_91.ovpn
+80.239.189.72:1194	udp	Sweden	2.53s	237_Sweden_Stockholm_-_88.ovpn
+193.42.39.20:1194	udp	Sweden	2.56s	1177_Sweden_Stockholm_-_89.ovpn
+185.174.133.37:1194	udp	Sweden	2.56s	1178_Sweden_Stockholm_-_90.ovpn
+80.239.189.99:1194	udp	Sweden	9.29s	33_Sweden_Stockholm_-_92.ovpn
+185.174.133.37:1194	udp	Sweden - Stockholm	2.5s	94_Sweden_Stockholm_Stockholm_03.ovpn
+193.42.39.20:1194	udp	Sweden - Stockholm	2.51s	583_Sweden_Stockholm_Stockholm_02.ovpn
+80.239.189.99:1194	udp	Sweden - Stockholm	2.64s	586_Sweden_Stockholm_Stockholm_05.ovpn
+80.239.189.73:1194	udp	Sweden - Stockholm	2.71s	585_Sweden_Stockholm_Stockholm_04.ovpn
+80.239.189.72:1194	udp	Sweden - Stockholm	2.82s	582_Sweden_Stockholm_Stockholm_01.ovpn
+194.124.33.251:1194	udp	Switzerland	2.65s	212_Switzerland_Zurich_-_26.ovpn
+45.90.59.141:1194	udp	Switzerland	2.68s	1039_Switzerland_Zurich_-_30.ovpn
+45.90.59.139:1194	udp	Switzerland	2.74s	1038_Switzerland_Zurich_-_29.ovpn
+45.90.59.135:1194	udp	Switzerland	2.75s	1036_Switzerland_Zurich_-_27.ovpn
+45.90.59.144:1194	udp	Switzerland	2.76s	59_Switzerland_Zurich_-_28.ovpn
+45.90.59.144:1194	udp	Switzerland - Zurich	2.5s	93_Switzerland_Zurich_Zurich_03.ovpn
+45.90.59.135:1194	udp	Switzerland - Zurich	2.64s	588_Switzerland_Zurich_Zurich_02.ovpn
+194.124.33.251:1194	udp	Switzerland - Zurich	2.65s	587_Switzerland_Zurich_Zurich_01.ovpn
+45.90.59.139:1194	udp	Switzerland - Zurich	2.67s	590_Switzerland_Zurich_Zurich_04.ovpn
+45.90.59.141:1194	udp	Switzerland - Zurich	2.7s	591_Switzerland_Zurich_Zurich_05.ovpn
+203.75.191.35:1194	udp	Taiwan	1.52s	1191_Taiwan_Taipei_-_1103.ovpn
+203.75.191.35:1194	udp	Taiwan	1.53s	182_Taiwan_Taipei_-_1102.ovpn
+203.75.191.35:1194	udp	Taiwan - Taipei	1.4s	626_Taiwan_Taipei_Taipei_03.ovpn
+203.75.191.35:1194	udp	Taiwan - Taipei	1.5s	593_Taiwan_Taipei_Taipei_02.ovpn
+203.75.191.35:1194	udp	Taiwan - Taipei	1.54s	92_Taiwan_Taipei_Taipei_01.ovpn
+45.136.238.31:1194	udp	Thailand	1.61s	617_Thailand_Bangkok_01.ovpn
+45.136.238.31:1194	udp	Thailand - Bangkok	1.69s	618_Thailand_Bangkok_Bangkok_02.ovpn
+157.85.97.158:1194	udp	Thailand - Bangkok	1.82s	619_Thailand_Bangkok_Bangkok_03.ovpn
+155.254.30.178:1194	udp	US - Charlotte	2.38s	77_US_Charlotte_Charlotte_07.ovpn
+155.254.30.176:1194	udp	US - Charlotte	2.47s	276_US_Charlotte_Charlotte_05.ovpn
+155.254.30.178:1194	udp	US - Charlotte	2.54s	275_US_Charlotte_Charlotte_03.ovpn
+155.254.30.176:1194	udp	US - Charlotte	2.55s	272_US_Charlotte_Charlotte_01.ovpn
+155.254.30.177:1194	udp	US - Charlotte	2.55s	764_US_Charlotte_Charlotte_06.ovpn
+155.254.30.177:1194	udp	US - Charlotte	2.66s	273_US_Charlotte_Charlotte_02.ovpn
+216.227.189.156:1194	udp	US - Chicago	4.78s	76_US_Chicago_Chicago_08.ovpn
+139.28.179.93:1194	udp	US - Denver	2.15s	290_US_Denver_Denver_04.ovpn
+107.152.46.237:1194	udp	US - Los Angeles	1.99s	307_US_Los_Angeles_Los_Angeles_05.ovpn
+107.152.46.184:1194	udp	US - Los Angeles	2.01s	865_US_Los_Angeles_Los_Angeles_06.ovpn
+107.152.46.214:1194	udp	US - Los Angeles	2.03s	72_US_Los_Angeles_Los_Angeles_07.ovpn
+107.152.47.35:1194	udp	US - Los Angeles	2.08s	304_US_Los_Angeles_Los_Angeles_02.ovpn
+107.152.47.23:1194	udp	US - Los Angeles	2.09s	303_US_Los_Angeles_Los_Angeles_01.ovpn
+107.152.46.244:1194	udp	US - Los Angeles	2.19s	867_US_Los_Angeles_Los_Angeles_08.ovpn
+107.152.45.30:1194	udp	US - Phoenix	2.0s	68_US_Phoenix_Phoenix_08.ovpn
+107.152.45.227:1194	udp	US - Phoenix	2.14s	324_US_Phoenix_Phoenix_03.ovpn
+107.152.45.83:1194	udp	US - Phoenix	2.14s	933_US_Phoenix_Phoenix_06.ovpn
+107.152.45.201:1194	udp	US - Phoenix	2.24s	325_US_Phoenix_Phoenix_02.ovpn
+107.152.45.226:1194	udp	US - Phoenix	2.26s	323_US_Phoenix_Phoenix_01.ovpn
+130.51.20.156:1194	udp	US - San Jose	1.98s	951_US_San_Jose_San_Jose_07.ovpn
+130.51.20.109:1194	udp	US - San Jose	2.01s	329_US_San_Jose_San_Jose_02.ovpn
+130.51.20.112:1194	udp	US - San Jose	2.1s	328_US_San_Jose_San_Jose_01.ovpn
+130.51.20.112:1194	udp	US - San Jose	2.12s	332_US_San_Jose_San_Jose_05.ovpn
+130.51.20.109:1194	udp	US - San Jose	2.12s	950_US_San_Jose_San_Jose_06.ovpn
+130.51.20.156:1194	udp	US - San Jose	2.16s	330_US_San_Jose_San_Jose_03.ovpn
+5.188.6.136:1194	udp	Ukraine	2.65s	1307_Ukraine_Kiev_-_01.ovpn
+5.188.6.210:1194	udp	Ukraine	2.67s	240_Ukraine_Kiev_-_30.ovpn
+95.85.72.147:1194	udp	Ukraine	2.71s	1193_Ukraine_Kiev_-_31.ovpn
+95.85.72.173:1194	udp	Ukraine	2.73s	29_Ukraine_Kiev_-_32.ovpn
+95.85.72.172:1194	udp	Ukraine	2.8s	1196_Ukraine_Kiev_-_34.ovpn
+95.85.72.151:1194	udp	Ukraine	2.81s	1195_Ukraine_Kiev_-_33.ovpn
+5.188.6.210:1194	udp	Ukraine - Kiev	2.61s	91_Ukraine_Kiev_Kiev_02.ovpn
+5.188.6.136:1194	udp	Ukraine - Kiev	2.66s	1192_Ukraine_Kiev_Kiev_06.ovpn
+95.85.72.147:1194	udp	Ukraine - Kiev	2.78s	597_Ukraine_Kiev_Kiev_04.ovpn
+95.85.72.172:1194	udp	Ukraine - Kiev	2.85s	594_Ukraine_Kiev_Kiev_01.ovpn
+95.85.72.173:1194	udp	Ukraine - Kiev	5.71s	596_Ukraine_Kiev_Kiev_03.ovpn
+89.36.162.80:1194	udp	United Arab Emirates	1.86s	979_United_Arab_Emirates_Dubai_-_2131.ovpn
+89.36.162.78:1194	udp	United Arab Emirates	2.59s	200_United_Arab_Emirates_Dubai_-_2130.ovpn
+82.22.20.61:1194	udp	United Kingdom	2.6s	243_United_Kingdom_England_-_02.ovpn
+130.51.20.156:1194	udp	United States	1.99s	941_United_States_San_Jose_-_104.ovpn
+107.152.45.83:1194	udp	United States	2.03s	928_United_States_Phoenix_-_105.ovpn
+130.51.20.156:1194	udp	United States	2.03s	945_United_States_San_Jose_-_105.ovpn
+107.152.47.35:1194	udp	United States	2.07s	856_United_States_Los_Angeles_-_101.ovpn
+107.152.45.227:1194	udp	United States	2.07s	925_United_States_Phoenix_-_102.ovpn
+107.152.45.30:1194	udp	United States	2.07s	930_United_States_Phoenix_-_107.ovpn
+130.51.20.112:1194	udp	United States	2.07s	943_United_States_San_Jose_-_103.ovpn
+107.152.46.237:1194	udp	United States	2.08s	859_United_States_Los_Angeles_-_104.ovpn
+107.152.45.226:1194	udp	United States	2.08s	923_United_States_Phoenix_-_100.ovpn
+107.152.47.23:1194	udp	United States	2.1s	855_United_States_Los_Angeles_-_100.ovpn
+107.152.46.214:1194	udp	United States	2.12s	861_United_States_Los_Angeles_-_106.ovpn
+107.152.45.201:1194	udp	United States	2.16s	924_United_States_Phoenix_-_101.ovpn
+130.51.20.109:1194	udp	United States	2.17s	946_United_States_San_Jose_-_106.ovpn
+107.152.46.244:1194	udp	United States	2.19s	862_United_States_Los_Angeles_-_107.ovpn
+130.51.20.109:1194	udp	United States	2.19s	942_United_States_San_Jose_-_102.ovpn
+130.51.20.112:1194	udp	United States	2.19s	947_United_States_San_Jose_-_107.ovpn
+107.152.46.184:1194	udp	United States	2.21s	860_United_States_Los_Angeles_-_105.ovpn
+216.227.189.156:1194	udp	United States	2.28s	774_United_States_Chicago_-_103.ovpn
+139.28.179.93:1194	udp	United States	2.33s	809_United_States_Denver_-_105.ovpn
+155.254.30.178:1194	udp	United States	2.39s	759_United_States_Charlotte_-_105.ovpn
+155.254.30.176:1194	udp	United States	2.49s	757_United_States_Charlotte_-_103.ovpn
+155.254.30.176:1194	udp	United States	2.51s	761_United_States_Charlotte_-_107.ovpn
+155.254.30.177:1194	udp	United States	2.52s	756_United_States_Charlotte_-_102.ovpn
+155.254.30.177:1194	udp	United States	2.69s	760_United_States_Charlotte_-_106.ovpn
+155.254.30.178:1194	udp	United States	2.71s	755_United_States_Charlotte_-_101.ovpn
+103.197.185.5:1194	udp	Vietnam	1.47s	1309_Vietnam_Hanoi_04.ovpn
+103.197.185.34:1194	udp	Vietnam	1.7s	1313_Vietnam_Hanoi_08.ovpn
+103.197.185.22:1194	udp	Vietnam	1.74s	1310_Vietnam_Hanoi_07.ovpn
+103.197.185.18:1194	udp	Vietnam	4.97s	1312_Vietnam_Hanoi_06.ovpn
+103.197.185.34:1194	udp	Vietnam - Hanoi	1.68s	1311_Vietnam_Hanoi_Hanoi_05.ovpn
+103.197.185.22:1194	udp	Vietnam - Hanoi	1.73s	608_Vietnam_Hanoi_Hanoi_02.ovpn

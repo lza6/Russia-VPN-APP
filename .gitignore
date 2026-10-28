@@ -1,0 +1,25 @@
+# 凭证类运行期产物 —— 绝不入库
+output/ovpn/
+output/details.json
+
+# 临时/中间产物
+tmp_probe/
+tmp_tunnel/
+tmp_demo_probe/
+*.log
+
+# 大体积二进制与字符串表（可用 tools/ 重新生成）
+bin/
+recon/*.txt
+recon/lib/
+
+# Python
+__pycache__/
+*.pyc
+
+# APK 解压产物（54 MB）
+apk/
+apk_list.txt
+
+# 含真实私钥的抓取样例（仅本地参考）
+recon/detail_sample.json
