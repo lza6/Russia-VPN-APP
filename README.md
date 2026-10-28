@@ -184,6 +184,13 @@ RussiaVPN_4.2.8.6/
 `slug` 重叠 **413/1104**，`id=1024 Montreal - 689` 在两站是同一节点同一凭证。
 **App 只是壳，节点池是平台的。**
 
+| 仓库 | 站点 | 配置数 | 存活 | 唯一出口 IP |
+|------|------|--------|------|------------|
+| **Russia-VPN-APP**（本仓库） | site45.newmobilejumpstech.com | 1167 | 725（62.1%） | 455 / 存活 321 |
+| [Indonesia-VPN-APP](https://github.com/lza6/Indonesia-VPN-APP) | site40.mobilejumps.org | 1104 | 664 | 473 / 活 342 |
+
+两者的转换层与 new-api 对接方式是同一套（`TRYINGOPEN_PROXY_FILE`），可直接复用。
+
 ## 合规声明
 
 - 本项目仅用于**安全研究**与协议分析。所有节点为 mobilejumps 白标平台租用的**商业数据中心**
