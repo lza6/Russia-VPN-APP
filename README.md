@@ -24,8 +24,17 @@
 
 无鉴权、无签名、无设备绑定。协议细节见 **[docs/PROTOCOL.md](docs/PROTOCOL.md)**（最有价值的一份）。
 
-## 关键实测数据
+## 想接进 new-api？
 
+这些节点是 OpenVPN（`udp/1194` + 证书 + `tls-crypt`），不是 SOCKS5，**不能直接喂给代理池**。
+完整对接路径（转换层 → `TRYINGOPEN_PROXY_FILE` → 验证三层 → 8 个必避坑）见
+**[docs/NEWAPI_INTEGRATION.md](docs/NEWAPI_INTEGRATION.md)**。
+
+一句话：`tools/socks_layer.py`（每节点一个 netns：openvpn + microsocks + fail-closed）
+→ 产出 `output/newapi_proxies.txt`（`socks5://127.0.0.1:4400x`）→ new-api 一行环境变量接入，
+**不需要改 new-api 业务代码**。
+
+## 关键实测数据
 | 指标 | 值 |
 |------|----|
 | 配置总数 | **1167**（0 失败）；唯一 IP **455**（一 IP 多证书入口） |
@@ -54,15 +63,21 @@
 
 ## 快速开始
 
+> ⚠️ **本仓库不含凭证类文件**：`output/ovpn/`（含 client 私钥 + tls-crypt）和
+> `output/details.json`（slug ↔ 节点映射）已 gitignore。clone 下来只能直接读**结果数据**
+> （`alive_nodes.txt` / `probe_results.json` / `summary.json` / `node_index.md`）
+> 与跑分析；**要复现全链路必须先执行第 1 步收割**。
+> 缺文件时脚本会直接提示你要先跑哪一步（退出码 2）。
+
 ```bash
-# 0. 依赖：Python 3.10+、OpenVPN 2.6 便携版（bin/openvpn_x，已含 wintun.dll）、tapctl 适配器
+# 0. 依赖：Python 3.10+；若要做隧道验证再备 OpenVPN 2.6（bin/ 已 gitignore，见下方说明）
 python -c "print('ok')"
 
 # 1. 全量收割（需境外出口，脚本内已写 socks5h://127.0.0.1:10808）
 python tools/harvest.py 2 3            # rate=2 req/s, workers=3
 
-# 2. 全量测活（40 并发真实握手，dev null 零侵入，约 4 分钟）
-python tools/probe.py --workers 40
+# 2. 全量测活（48 并发真实握手，dev null 零侵入，约 2.5 分钟）
+python tools/probe.py --workers 48
 
 # 3. 隧道出口抽样验证（真实建隧道，只放行测试 IP 的 /32 路由）
 python tools/tunnel_test.py --limit 12 --speed
@@ -71,10 +86,18 @@ python tools/tunnel_test.py --limit 12 --speed
 python demo_server.py 8912             # http://127.0.0.1:8912
 ```
 
+`bin/openvpn_x/`（OpenVPN 2.6 便携版 + wintun.dll）因体积已 gitignore，需要时自行提取：
+
+```powershell
+curl.exe -L -o openvpn.msi https://swupdate.openvpn.org/community/releases/OpenVPN-2.6.12-I001-amd64.msi
+msiexec /a openvpn.msi /qn TARGETDIR=D:\tmp\openvpn_x
+# 再把 D:\tmp\openvpn_x\OpenVPN 移到本项目 bin\ 下；wintun.dll 从 https://www.wintun.net/builds/wintun-0.14.1.zip 取 amd64 版放进 bin\openvpn_x\OpenVPN\bin\
+```
+
 首次跑隧道验证前需建专属 wintun 适配器（避免与同机其它 VPN 客户端抢）：
 
 ```powershell
-C:\Users\Administrator.DESKTOP-EGNE9ND\Desktop\逆向产物\RussiaVPN_4.2.8.6\bin\openvpn_x\OpenVPN\bin\tapctl.exe create --hwid wintun --name ovpn-ru-test
+.\bin\openvpn_x\OpenVPN\bin\tapctl.exe create --hwid wintun --name ovpn-ru-test
 ```
 
 用完可删掉保持本机干净（本项目交付时已删除，本机无残留路由与适配器）：
@@ -108,12 +131,14 @@ RussiaVPN_4.2.8.6/
 │   ├── harvest.py                    全量收割（并发 + 429 退避 + 断点续传）
 │   ├── probe.py                      48 并发真实握手测活
 │   ├── tunnel_test.py                真实隧道出口验证 + 带宽（/32 路由注入 + 残留自检）
+│   ├── socks_layer.py                ★ OpenVPN → SOCKS5 转换层（netns 隔离 + fail-closed）
 │   ├── retry_failed.py               失败节点复测（验证路由残留修复）
 │   ├── summary.py                    全量统计汇总
 │   ├── node_index.py                 生成可直读节点索引
 │   └── verify_demo.py                Playwright 真实浏览器验证 demo 页
 ├── docs/
 │   ├── PROTOCOL.md                   ★ 上游协议手册（端点/字段/9 个坑/30 行最小实现）
+│   ├── NEWAPI_INTEGRATION.md         ★ new-api 对接指南（转换层 → TRYINGOPEN_PROXY_FILE）
 │   ├── REVERSE_REPORT.md             完整逆向报告
 │   └── STABILITY_ASSESSMENT.md       稳定性评估（能不能"长久稳定"用）
 ├── recon/                            侦察产物（allservers.json / ASN 抽样 / 字符串表）

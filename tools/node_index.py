@@ -10,9 +10,21 @@ import sys
 WORK = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(WORK, "output")
 
+DETAILS_HINT = (
+    "缺少 output/details.json：该文件含节点 slug 与 ovpn 映射，属凭证类未入库。\n"
+    "先在本机执行一次全量收割再跑本脚本：\n"
+    "    python tools/harvest.py 2 3\n"
+    "（需要境外出口访问 site45.newmobilejumpstech.com，见 docs/PROTOCOL.md §6.2）"
+)
+
+
 
 def main():
-    det = json.load(open(os.path.join(OUT, "details.json"), encoding="utf-8"))
+    det_path = os.path.join(OUT, "details.json")
+    if not os.path.exists(det_path):
+        print(DETAILS_HINT)
+        return 2
+    det = json.load(open(det_path, encoding="utf-8"))
     pr = json.load(open(os.path.join(OUT, "probe_results.json"), encoding="utf-8"))
     pmap = {p["file"]: p for p in pr}
 

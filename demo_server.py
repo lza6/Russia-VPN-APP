@@ -309,7 +309,10 @@ class Handler(BaseHTTPRequestHandler):
 
 def main():
     if not os.path.exists(DETAILS):
-        print(f"[FATAL] {DETAILS} 不存在，先跑 tools/harvest.py")
+        print("[FATAL] 缺少 output/details.json —— 该文件含节点 slug 与 ovpn 映射，"
+              "属凭证类未入库。\n"
+              "先在本机跑一次全量收割：python tools/harvest.py 2 3\n"
+              "（需要境外出口访问 site45.newmobilejumpstech.com，见 docs/PROTOCOL.md §6.2）")
         return 1
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
